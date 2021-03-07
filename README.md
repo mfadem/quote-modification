@@ -29,7 +29,7 @@ Your `json/config.json` file should look like this, a template config file is pr
     }
 
 ## Input
-This bot is using a collection of quotes and nouns that I found scatter around the web.
+This bot is using a collection of quotes and nouns that I found scattered around the web.
 
 ## Contributing
 Feel free to open a PR for improvements to the bots functionality or to update/add new quotes and nouns.
