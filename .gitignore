@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dev Folders
+.vscode
+venv
+
+# Runtime Folders
+__pycache__
+
+# User/System JSON Files
+config.json
+user.json
+
+# Input files
+used_quotes.txt
