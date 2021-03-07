@@ -237,6 +237,7 @@ bush
 bushes
 business
 businesses
+butt
 butter
 button
 buy
@@ -1292,7 +1293,6 @@ pause
 pay
 payment
 peace
-peaces
 peak
 pen
 penalty
@@ -1354,6 +1354,7 @@ polish
 politics
 pollution
 pool
+poor
 pop
 population
 port
@@ -1537,6 +1538,7 @@ retirement
 return
 reveal
 revenue
+revenge
 review
 revolution
 reward
@@ -2055,3 +2057,16 @@ zone
 heaven
 bible
 koran
+soldier
+military
+bait
+avenge
+revenge
+asshole
+assholes
+vagina
+warfare
+deception
+disobey
+obey
+mankind

@@ -130,7 +130,7 @@ class Bot:
                         if word == noun and word not in noun_list:
                             noun_list.append(word)
 
-        print("Author: {}\nQuote: {}\nNouns: {}".format(author, quote, noun_list))
+        # print("Author: {}\nQuote: {}\nNouns: {}".format(author, quote, noun_list))
         return [author, quote, noun_list]
 
     def penisReplacement(self, quote):
@@ -141,24 +141,29 @@ class Bot:
             used_quotes.write(quote[1] + "\n")
 
         random_noun = random.choice(quote[2])
-        print("Random Noun: {}".format(random_noun))
+        # print("Random Noun: {}".format(random_noun))
 
-        quote[1] = quote[1].replace(random_noun, 'penis')
+        improved_quote = quote[1].replace(random_noun, 'penis')
 
         # assemble tweet
-        return "{} - {}\n#penis #quote #motivational".format(quote[1], quote[0])
+        return ["{} - {}\n#penis #quote #motivational".format(improved_quote, quote[0]), random_noun]
 
 def main():
     try:
         bot = Bot("config/config.json")
         quote = bot.pullQuote()
+
         if(quote == "ERROR - NO MORE QUOTES! CONTACT MY HUMAN!"):
-            print(quote)
+            # print(quote)
             bot.updateBotStatus(quote)
         else:
             improved_quote = bot.penisReplacement(quote)
-            print("Penis Quote: {}".format(improved_quote))
-            bot.updateBotStatus(improved_quote)
+            # print("Penis Quote: {}".format(improved_quote))
+            bot.updateBotStatus(improved_quote[0])
+
+        # Reply to most recent tweet with additional info
+        recent_tweet = bot.api_client.user_timeline(id = bot.api_client.me().id, count = 1)[0]
+        bot.api_client.update_status('@PenisQuoteBot Original Quote: "{}"\nPossible Replacements: {}\nSelected Replacement: {}'.format(quote[1], quote[2], improved_quote[1]), recent_tweet.id)
     except Exception as err:
         print("Hey bud, you got an error. ¯\_(ツ)_/¯ \n {0}\n\t{1}".format(err.with_traceback, err))
         sys.exit(-1)
