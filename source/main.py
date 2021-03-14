@@ -3,6 +3,7 @@ import json
 import random
 import sys
 import tweepy
+import os
 
 class Bot:
     def __init__(self, json_file):
@@ -125,10 +126,9 @@ class Bot:
             with open('input/nouns.txt', 'r') as noun_file:
                 nouns = noun_file.read().splitlines()
                 for noun in nouns:
-                    for word in quote.split():
-                        # TODO: Need to handle capitalization, probably don't need the double loop
-                        if word == noun and word not in noun_list:
-                            noun_list.append(word)
+                     # TODO: Need to handle capitalization and punctuation
+                    if noun in quote.split() and noun not in noun_list:
+                        noun_list.append(noun)
 
         # print("Author: {}\nQuote: {}\nNouns: {}".format(author, quote, noun_list))
         return [author, quote, noun_list]
@@ -146,11 +146,15 @@ class Bot:
         improved_quote = quote[1].replace(random_noun, 'penis')
 
         # assemble tweet
-        return ["{} - {}\n#penis #quote #motivational".format(improved_quote, quote[0]), random_noun]
+        return ["\"{}.\" - {}\n#penis #quote #motivational".format(improved_quote, quote[0]), random_noun]
 
 def main():
     try:
         bot = Bot("config/config.json")
+
+        if not os.path.isfile("input/used_quotes.txt"):
+            os.mknod("input/used_quotes.txt")
+
         quote = bot.pullQuote()
 
         if(quote == "ERROR - NO MORE QUOTES! CONTACT MY HUMAN!"):
@@ -163,7 +167,7 @@ def main():
 
         # Reply to most recent tweet with additional info
         recent_tweet = bot.api_client.user_timeline(id = bot.api_client.me().id, count = 1)[0]
-        bot.api_client.update_status('@PenisQuoteBot Original Quote: "{}"\nPossible Replacements: {}\nSelected Replacement: {}'.format(quote[1], quote[2], improved_quote[1]), recent_tweet.id)
+        bot.api_client.update_status('@PenisQuoteBot Original Quote: {}\nPossible Replacements: {}\nSelected Replacement: {}'.format(quote[1], quote[2], improved_quote[1]), recent_tweet.id)
     except Exception as err:
         print("Hey bud, you got an error. ¯\_(ツ)_/¯ \n {0}\n\t{1}".format(err.with_traceback, err))
         sys.exit(-1)
