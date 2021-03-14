@@ -1,954 +1,1000 @@
-"I have a dream!" - Martin Luther King Jr.
-"Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
-"Try not to become a person of success, but rather try to become a person of value." - Albert Einstein
-"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
-"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
-"The difference between winning and losing is most often not quitting." - Walt Disney
-"The distance between insanity and genius is measured only by success." - Bruce Feirstein
-"I find that the harder I work, the more luck I seem to have." - Thomas Jefferson
-"You may only succeed if you desire succeeding; you may only fail if you do not mind failing." - Philippos
-"A dream doesn't become reality through magic; it takes sweat, determination, and hard work." -Colin Powell
-"Only put off until tomorrow what you are willing to die having left undone." -Pablo Picasso
-"Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better." - Jim Rohn
-"Many of life's failures are people who did not realize how close they were to success when they gave up." - Thomas A. Edison
-"He's right and he's right? They can't both be right." "You know... you are also right."
-"If you come here, your life will change," one exhorted. The other simply smiled and said, "Well, your life will change either way. But it's helpful."
-"Lucifer" means the one who carries the light.
-"There is the hand, Professor. You make ask it to do whatever you wish. I remain free."
-A fool always finds a greater fool to admire him.
-A free society is one where it is safe to be unpopular.
-A little knowledge is a dangerous thing. A lot of knowledge lets you know how little knowledge you really have.
-A man who has not passed through the inferno of his passions has never overcome them.
-A peaceful mind cannot be reached by ignoring yourself.
-A purpose of human life, no matter who is controlling it, is to love whoever is around to be loved.
+I have a dream - Martin Luther King Jr.
+Success is walking from failure to failure with no loss of enthusiasm - Winston Churchill
+Try not to become a person of success, but rather try to become a person of value - Albert Einstein
+It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change - Charles Darwin
+Live as if you were to die tomorrow. Learn as if you were to live forever - Mahatma Gandhi
+The difference between winning and losing is most often not quitting - Walt Disney
+The distance between insanity and genius is measured only by success - Bruce Feirstein
+I find that the harder I work, the more luck I seem to have - Thomas Jefferson
+You may only succeed if you desire succeeding; you may only fail if you do not mind failing - Philippos
+A dream doesn't become reality through magic; it takes sweat, determination, and hard work - Colin Powell
+Only put off until tomorrow what you are willing to die having left undone - Pablo Picasso
+Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better - Jim Rohn
+Many of life's failures are people who did not realize how close they were to success when they gave up - Thomas A. Edison
+He's right and he's right? They can't both be right." "You know... you are also right."
+If you come here, your life will change," one exhorted. The other simply smiled and said, "Well, your life will change either way. But it's helpful."
+Lucifer" means the one who carries the light
+There is the hand, Professor. You make ask it to do whatever you wish. I remain free."
+A fool always finds a greater fool to admire him
+A free society is one where it is safe to be unpopular
+A little knowledge is a dangerous thing. A lot of knowledge lets you know how little knowledge you really have
+A man who has not passed through the inferno of his passions has never overcome them
+A peaceful mind cannot be reached by ignoring yourself
+A purpose of human life, no matter who is controlling it, is to love whoever is around to be loved
 A question that sometimes drives me hazy: am I or are the others crazy?
-A ship in port is safe, but that is not what ships are built for.
-A successful person is one who can lay a firm foundation with the bricks that others throw at them.
-A wise man proportions his belief to the evidence.
-A witty saying proves nothing.
-A wizard may have subtle ways of telling the truth, and may keep the truth to himself, but if he says a thing the thing is as he says. For that is his mastery.
-A world ought to have a few genuine good guys, and not just a spectrum of people running from bad to worse.
-Accept who you are, and you will no longer fear it.
-Advice is what we ask for when we already know the answer but wish we didn't.
-After silence, that which comes nearest to expressing the inexpressible is music.
-All I can do is be me, whoever that is.
-All I want is a little more than I'll ever get.
-All persons, living and dead, are purely coincidental.
-All serious information is humor, all humor is serious information.
-All the world's a stage, but they forgot to send us the script.
-All tyranny needs to gain a foothold is for people of good conscience to remain silent.
-Almost anything carried to its logical extreme becomes depressing, if not carcinogenic.
-An artist is a liar who speaks the truth.
-An ordnance technician at a dead run outranks everyone.
-And now that you don’t have to be perfect, you can be good.
-Any smoothly functioning technology will have the appearance of magic.
-Apparently, panicking is an acceptable substitute for forethought, contingency planning or actually taking productive action.
+A ship in port is safe, but that is not what ships are built for
+A successful person is one who can lay a firm foundation with the bricks that others throw at them
+A wise man proportions his belief to the evidence
+A witty saying proves nothing
+A wizard may have subtle ways of telling the truth, and may keep the truth to himself, but if he says a thing the thing is as he says. For that is his mastery
+A world ought to have a few genuine good guys, and not just a spectrum of people running from bad to worse
+Accept who you are, and you will no longer fear it
+Advice is what we ask for when we already know the answer but wish we didn't
+After silence, that which comes nearest to expressing the inexpressible is music
+All I can do is be me, whoever that is
+All I want is a little more than I'll ever get
+All persons, living and dead, are purely coincidental
+All serious information is humor, all humor is serious information
+All the world's a stage, but they forgot to send us the script
+All tyranny needs to gain a foothold is for people of good conscience to remain silent
+Almost anything carried to its logical extreme becomes depressing, if not carcinogenic
+An artist is a liar who speaks the truth
+An ordnance technician at a dead run outranks everyone
+And now that you don’t have to be perfect, you can be good
+Any smoothly functioning technology will have the appearance of magic
+Apparently, panicking is an acceptable substitute for forethought, contingency planning or actually taking productive action
 Are you sure this isn't just a live action roleplaying game?
-As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being.
-Be careful what you pretend to be, because that is what you become.
-Be happy for this moment. This moment is your life.
-Be the revolution.
-Beautiful things can come from the dark.
-Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
-Behind every story of extraordinary heroism, there is a less exciting and more interesting story about the larger failures that made heroism necessary in the first place.
-Being happy doesn't mean every thing's perfect; it just means you've decided to see beyond the imperfections.
-Being normal isn't one of my strengths.
-Belief is no substitute for knowledge.
-Benjamin Franklin once proposed that the Constitutional Convention pray before each meeting. Hamilton replied that there was no need for foreign aid.
-Better still, doubt your answers!
-Better to help ten who do not need it than to ignore one who does.
-Beware that the domain of your expertise does not become the limits of your world.
-CHAOS, More than a theory, it's the Way of Life.
-Care deeply, give freely, think kindly, act gently, and be at peace with the world.
-Cats humor us because they know that their ancestors ate ours.
-Change is inevitable. Growth is optional.
-Change need not unbalance you; life's not a static object, after all. It's a process.
-Children are fundamentally the same as adults.
-Civil Disobedience, It's not just for revolutionaries anymore!
-Common sense is the collection of prejudices acquired by age eighteen.
-Complexity happens; simplicity, you have to strive for.
-Computer Science is no more about computers than astronomy is about telescopes.
-Computer programming is omnipotence without omniscience.
-Conceal a flaw, and the world will imagine the worst.
-Conventional people are roused to fury by departure from convention, largely because they regard such departure as a criticism of themselves.
-Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing "look over there".
-Crying is okay here.
-Culture belongs to the people.
-Dark sides are important. They should be nurtured like black orchids.
-Deal with the faults of others as gently as with your own.
-Destiny always has been something that you tear open with your own hands.
-Determined efforts are better than a miracle.
-Devise a medium and someone will use it to express a message.
-Discipline is just choosing between what you want now and what you want most.
-Disobey.
+As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being
+Be careful what you pretend to be, because that is what you become
+Be happy for this moment. This moment is your life
+Be the revolution
+Beautiful things can come from the dark
+Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water
+Behind every story of extraordinary heroism, there is a less exciting and more interesting story about the larger failures that made heroism necessary in the first place
+Being happy doesn't mean every thing's perfect; it just means you've decided to see beyond the imperfections
+Being normal isn't one of my strengths
+Belief is no substitute for knowledge
+Benjamin Franklin once proposed that the Constitutional Convention pray before each meeting. Hamilton replied that there was no need for foreign aid
+Better still, doubt your answers
+Better to help ten who do not need it than to ignore one who does
+Beware that the domain of your expertise does not become the limits of your world
+CHAOS, More than a theory, it's the Way of Life
+Care deeply, give freely, think kindly, act gently, and be at peace with the world
+Cats humor us because they know that their ancestors ate ours
+Change is inevitable. Growth is optional
+Change need not unbalance you; life's not a static object, after all. It's a process
+Children are fundamentally the same as adults
+Civil Disobedience, It's not just for revolutionaries anymore
+Common sense is the collection of prejudices acquired by age eighteen
+Complexity happens; simplicity, you have to strive for
+Computer Science is no more about computers than astronomy is about telescopes
+Computer programming is omnipotence without omniscience
+Conceal a flaw, and the world will imagine the worst
+Conventional people are roused to fury by departure from convention, largely because they regard such departure as a criticism of themselves
+Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing "look over there"
+Crying is okay here
+Culture belongs to the people
+Dark sides are important. They should be nurtured like black orchids
+Deal with the faults of others as gently as with your own
+Destiny always has been something that you tear open with your own hands
+Determined efforts are better than a miracle
+Devise a medium and someone will use it to express a message
+Discipline is just choosing between what you want now and what you want most
+Disobey
 Do I want to do this? Would I do this if not for the things they are doing to me and have done to me?
-Do not be daunted by the enormity of the world's grief. Do justly, now. Walk humbly, now. You are not obligated to complete the work, but neither are you free to abandon it.
-Do not let your light be extinguished by the dark this world has shown you.
-Do not settle for lacking Miles Vorkosigan's brains, because that is not what Miles Vorkosigan would do. ACQUIRE more brains! In jars, if necessary.
-Do what you love, not what you want.
+Do not be daunted by the enormity of the world's grief. Do justly, now. Walk humbly, now. You are not obligated to complete the work, but neither are you free to abandon it
+Do not let your light be extinguished by the dark this world has shown you
+Do not settle for lacking Miles Vorkosigan's brains, because that is not what Miles Vorkosigan would do. ACQUIRE more brains! In jars, if necessary
+Do what you love, not what you want
 Do you have ideas, or do ideas have you?
-Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
-Don't apologize when you didn't do anything wrong.
-Don't ask what the meaning of life is. Define it.
-Don't ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive.
-Don't be afraid of death. Be afraid of an unlived life. You don't have to live forever, you just have to live!
-Don't be afraid to fail. Be afraid not to try.
-Don't blame the victim.
-Don't box me in.
-Don't break yourself for those who would ignore when you bend.
-Don't categorize me.
-Don't forget to fly.
-Don't forget to have a good time.
-Don't let anyone drive you crazy when you know it is walking distance.
+Do you want to know who you are? Don't ask. Act! Action will delineate and define you
+Don't apologize when you didn't do anything wrong
+Don't ask what the meaning of life is. Define it
+Don't ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive
+Don't be afraid of death. Be afraid of an unlived life. You don't have to live forever, you just have to live
+Don't be afraid to fail. Be afraid not to try
+Don't blame the victim
+Don't box me in
+Don't break yourself for those who would ignore when you bend
+Don't categorize me
+Don't forget to fly
+Don't forget to have a good time
+Don't let anyone drive you crazy when you know it is walking distance
 Don't let worry about "will they accept me?" keep you from asking yourself "do I even want them to?"
-Don't marry the person you think you can live with. Marry the one you can't live without.
-Don't ruin today over tomorrow's fears.
-Dost thou love life? Then do not squander time, for that's the stuff life is made of.
-Education is a privilege.
-Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.
-Education is when you read the fine print. Experience is what you get if you don't.
-Enjoy your worries, you may never have them again.
-Erase the battle lines you've drawn inside your head. You don't deserve to be at war with yourself anymore; you never did.
-Erasing yourself from someone's life is not as simple as walking out the door.
+Don't marry the person you think you can live with. Marry the one you can't live without
+Don't ruin today over tomorrow's fears
+Dost thou love life? Then do not squander time, for that's the stuff life is made of
+Education is a privilege
+Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught
+Education is when you read the fine print. Experience is what you get if you don't
+Enjoy your worries, you may never have them again
+Erase the battle lines you've drawn inside your head. You don't deserve to be at war with yourself anymore; you never did
+Erasing yourself from someone's life is not as simple as walking out the door
 Error: Insufficient Fun
-Even after all this time, the sun never says to the earth, "you owe me". Look what happens with a love like that. It lights the whole sky.
-Even if you're on the right track, you'll get run over if you just sit there.
-Every first draft is perfect, because all a first draft has to do is exist.
-Every form of addiction is bad, no matter whether the narcotic be alcohol, morphine or idealism.
-Every generation needs a new revolution.
-Every moment is a chance to start over.
-Everyone has their own magic because nothing is real.
-Everyone needs to be loved, especially when they do not deserve it.
-Everything I ever thought about myself, who I was, what I am, was a lie. You have no idea how astonishingly liberating that feels.
-Everything is propaganda.
-Everything takes longer.
-Everything that irritates us about others can lead us to a better understanding of ourselves.
-Everywhere is walking distance if you have the time.
-Expecting life to treat you well because you are a good person is like expecting an angry bull not to charge because you are a vegetarian.
-Experience is a good school. But the fees are high.
-Explore your questions.
-Facts do not cease to exist because they are ignored.
-Failure is simply the opportunity to begin again more intelligently.
-Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.
-Faith is Hope given too much credit.
-Fantasy is true, of course. It isn't factual, but it is true. Children know that. Adults know it too, and that is precisely why many of them are afraid of fantasy.
-Fear the dark, but embrace the fear. Terror is a religious experience.
-Fight for those you have lost, and for those you don't want to lose.
-Fine. You've explained it. Correctly, even. But you can't do it!
-Finish each day and be done with it.
-For further information, consult your pineal gland.
-Freedom allows you to choose which cage to live in.
-Freedom is not worth having if it does not include the freedom to make mistakes.
-Freedom is the right to be wrong, not the right to do wrong.
-From now on, every day will be the most important day.
-Fuck 'em.
-Gentlemen, I do not mind being contradicted, and I am unperturbed when I am attacked, but I confess I have slight misgivings when I hear myself being explained.
-Giving a person a high IQ is kind of like giving a person a million dollars. A few individuals will do something interesting with it, but most will piss it away on trinkets and pointless exercises.
-God is whoever does God's job.
-Good is not a thing you are. It's a thing you do.
-Good judgment comes from experience, and experience comes from bad judgment.
-Good people are consequentialists, but virtue ethics is what works.
-Good things come to those who smile.
-Great artists make the roads; good teachers and good companions can point them out. But there ain't no free rides, baby.
-Great talents are the most lovely and often the most dangerous fruits on the tree of humanity. They hang upon the most slender twigs that are easily snapped off.
-Hail Lilith!
-Half the fun of having an opinion is the quest to find it.
-Happiness is when what you think, what you say, and what you do are in harmony.
-Have no fixed beliefs, and find your own light.
-He who passively accepts evil is as much involved in it as he who helps to perpetrate it. He who accepts evil without protesting against it is really cooperating with it.
-Health is merely the slowest possible rate at which one can die.
-Home is any place that makes you forget the world is on fire.
-Home is not where you were born; home is where all your attempts to escape cease.
-Honor your humanness and all of your feelings, the messy ones, the growing pains, the ache, because we can't have the dark without the light.
-Hope is not the conviction that something will turn out well but the certainty that something makes sense, regardless of how it turns out.
-Hope is the confusion of the desire for a thing with its probability of happening.
-Hoping is not enough. You need to want.
-How exactly does one "alter reality"?  If I eat an apple have I altered reality?  Or maybe you mean to just give the appearance of altering reality.
-How many legs does a dog have if you call the tail a leg? Four. Calling a tail a leg doesn't make it a leg.
-How to cheer up in 2 easy steps: 1) Whisper "beep boop" to yourself. 2) Repeat until not sad.
-Hubris is a cardinal virtue.
+Even after all this time, the sun never says to the earth, "you owe me". Look what happens with a love like that. It lights the whole sky
+Even if you're on the right track, you'll get run over if you just sit there
+Every first draft is perfect, because all a first draft has to do is exist
+Every form of addiction is bad, no matter whether the narcotic be alcohol, morphine or idealism
+Every generation needs a new revolution
+Every moment is a chance to start over
+Everyone has their own magic because nothing is real
+Everyone needs to be loved, especially when they do not deserve it
+Everything I ever thought about myself, who I was, what I am, was a lie. You have no idea how astonishingly liberating that feels
+Everything is propaganda
+Everything takes longer
+Everything that irritates us about others can lead us to a better understanding of ourselves
+Everywhere is walking distance if you have the time
+Expecting life to treat you well because you are a good person is like expecting an angry bull not to charge because you are a vegetarian
+Experience is a good school. But the fees are high
+Explore your questions
+Facts do not cease to exist because they are ignored
+Failure is simply the opportunity to begin again more intelligently
+Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed
+Faith is Hope given too much credit
+Fantasy is true, of course. It isn't factual, but it is true. Children know that. Adults know it too, and that is precisely why many of them are afraid of fantasy
+Fear the dark, but embrace the fear. Terror is a religious experience
+Fight for those you have lost, and for those you don't want to lose
+Fine. You've explained it. Correctly, even. But you can't do it
+Finish each day and be done with it
+For further information, consult your pineal gland
+Freedom allows you to choose which cage to live in
+Freedom is not worth having if it does not include the freedom to make mistakes
+Freedom is the right to be wrong, not the right to do wrong
+From now on, every day will be the most important day
+Fuck 'em
+Gentlemen, I do not mind being contradicted, and I am unperturbed when I am attacked, but I confess I have slight misgivings when I hear myself being explained
+Giving a person a high IQ is kind of like giving a person a million dollars. A few individuals will do something interesting with it, but most will piss it away on trinkets and pointless exercises
+God is whoever does God's job
+Good is not a thing you are. It's a thing you do
+Good judgment comes from experience, and experience comes from bad judgment
+Good people are consequentialists, but virtue ethics is what works
+Good things come to those who smile
+Great artists make the roads; good teachers and good companions can point them out. But there ain't no free rides, baby
+Great talents are the most lovely and often the most dangerous fruits on the tree of humanity. They hang upon the most slender twigs that are easily snapped off
+Half the fun of having an opinion is the quest to find it
+Happiness is when what you think, what you say, and what you do are in harmony
+Have no fixed beliefs, and find your own light
+He who passively accepts evil is as much involved in it as he who helps to perpetrate it. He who accepts evil without protesting against it is really cooperating with it
+Health is merely the slowest possible rate at which one can die
+Home is any place that makes you forget the world is on fire
+Home is not where you were born; home is where all your attempts to escape cease
+Honor your humanness and all of your feelings, the messy ones, the growing pains, the ache, because we can't have the dark without the light
+Hope is not the conviction that something will turn out well but the certainty that something makes sense, regardless of how it turns out
+Hope is the confusion of the desire for a thing with its probability of happening
+Hoping is not enough. You need to want
+How exactly does one "alter reality"?  If I eat an apple have I altered reality?  Or maybe you mean to just give the appearance of altering reality
+How many legs does a dog have if you call the tail a leg? Four. Calling a tail a leg doesn't make it a leg
+How to cheer up in 2 easy steps: 1) Whisper "beep boop" to yourself. 2) Repeat until not sad
+Hubris is a cardinal virtue
 Human beings make life so interesting. Do you know, that in a universe so full of wonders, they have managed to invent boredom?
-Human fallibility is an engineering challenge.
-Humans are altruistic. We checked. That's definitely a thing. If your idea of the world doesn't have that in it, you're wrong.
-I always said I wanted to Be Somebody. I guess I should have been more specific!
-I am against religion because it teaches us to be satisfied with not understanding the world.
-I am allowed to hate them.
-I am allowed to have my feelings.
-I am allowed to not want to change my feelings.
-I am allowed to see things from my own perspective and not to try to see things from both sides and be objective.
-I am among those who think that science has great beauty. A scientist in his laboratory is not only a technician: he is also a child placed before natural phenomena which impress him like a fairy tale.
-I am me and not them.
-I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
-I am on nobody's side, because nobody is on my side.
-I arise in the morning torn between a desire to improve the world, and a desire to enjoy the world. This makes it hard to plan the day.
-I can always find a reason to smile.
-I can not tell you who God is, or what God is. But I am not concerned about that because neither can any one else. All I can really tell you is how I've experienced God.
-I can see beauty where others see ugliness. That either makes me an artist, or a person with very poor taste.
-I can't explain and I won't even try.
-I can't imagine a more complete and precise answer to the question "for what reason...?" than "none". The fact that you don't like the answer is your problem, not the universe's.
-I can't trust myself when I want to destroy the enemy.
-I changed my mind about something.
-I do not fear death. I had been dead for billions and billions of years before I was born and had not suffered the slightest inconvenience from it.
-I don't have trust issues, other people have trustworthiness issues.
-I don't know the key to success, but the key to failure is trying to please everybody.
-I don't know what I believe.
-I don't know, man, I didn't do it.
-I don't talk very much because talking without thinking is not talking at all.
-I find it hard to believe you don't know the beauty you are, but if you don't, let me be your eyes.
-I hate purity. I hate goodness. I don't want any virtue to exist anywhere. I want everyone to be corrupt to the bones.
-I have always observed that when people are interrupted in the performance of some egregious stupidity their feelings are hurt.
-I have been happy before, and I will be again.
-I have come to tell you that you are free.
-I have known more people whose lives have been ruined by getting a Ph.D. in physics than by drugs.
-I have no desire to file down my teeth and clip my claws just to make people comfortable.
-I have no idea where my life is going to lead me.
-I have often regretted my speech; never my silence.
-I know not where I'm going The ocean will decide It's not the destination It's the beauty of the ride.
-I love everything you hate about yourself.
-I love you, but love is not a one way street.
-I may not have gone where I intended to go, but I think I have ended up where I intended to be.
-I myself am made entirely of flaws, stitched together with good intentions.
-I need to know that I matter.
-I never really understood the term "wage slavery" until I had a job that wasn’t.
-I respect faith, but doubt is what gets you an education.
-I shall stay up here. The view is quite breathtaking.
-I suggest that you lead your life, not the other way round.
-I talk about the gods, I an atheist. But I am an artist too, and therefore a liar. Distrust everything I say. I am telling the truth.
-I thrive on attention.
-I took a deep breath and let it go.
-I turned my back on the world. I chose me. I fight for policy now, or for people I’ve met. For years I wasn’t sure if that made me free, or if that made me the devil. Now I know. And no, I’m never going back.
-I used to be sane, then I got better.
-I want a troublemaker for a lover, Blood spiller, blood drinker, a heart of flame, Who quarrels with the sky and fights with fate, Who burns like fire on the rushing sea.
-I want to have a nice body, but not as much as I want dessert.
-I want to know God's thoughts; the rest are details.
-I want to know what I've lost today.
-I want to live forever.
-I was bold in the pursuit of knowledge, never fearing to follow truth and reason to whatever results they led, and bearding every authority which stood in their way.
-I will always love you. Go easy on yourself.
-I will not pretend to be anyone but me, I am as I am.
-I would rather be exposed to the inconveniences attending too much liberty than to those attending too small a degree of it.
-I'd rather have the knowledge and not need it than need the knowledge and not have it.
-I'd rather live with a good question than a bad answer.
-I'll "get a life" when someone can prove that it's better than what I've got now.
-I'm a pretty princess!
-I'm going to feel good today.
-I'm not okay, you're not okay, but that's okay.
-I'm of the opinion that meanness is about the nature of the action, not awareness on the part of the target of the action.
-I'm sure this isn't ominous foreshadowing at all.
-I'm the one who has to die, when it's time for me to die, so let me live my life the way I want to.
-I've been looking at the world the wrong way. That's going to change.
-I've found that people who are great at something are not so much convinced of their own greatness as mystified at why everyone else seems so incompetent.
-I've learned so much from my mistakes, I'm thinking of making a few more.
-If God has created the world, his primary worry was not to make its understanding easy for us.
+Human fallibility is an engineering challenge
+Humans are altruistic. We checked. That's definitely a thing. If your idea of the world doesn't have that in it, you're wrong
+I always said I wanted to Be Somebody. I guess I should have been more specific
+I am against religion because it teaches us to be satisfied with not understanding the world
+I am allowed to hate them
+I am allowed to have my feelings
+I am allowed to not want to change my feelings
+I am allowed to see things from my own perspective and not to try to see things from both sides and be objective
+I am among those who think that science has great beauty. A scientist in his laboratory is not only a technician: he is also a child placed before natural phenomena which impress him like a fairy tale
+I am me and not them
+I am not bothered by the fact that I am unknown. I am bothered when I do not know others
+I am on nobody's side, because nobody is on my side
+I arise in the morning torn between a desire to improve the world, and a desire to enjoy the world. This makes it hard to plan the day
+I can always find a reason to smile
+I can not tell you who God is, or what God is. But I am not concerned about that because neither can any one else. All I can really tell you is how I've experienced God
+I can see beauty where others see ugliness. That either makes me an artist, or a person with very poor taste
+I can't explain and I won't even try
+I can't imagine a more complete and precise answer to the question "for what reason...?" than "none". The fact that you don't like the answer is your problem, not the universe's
+I can't trust myself when I want to destroy the enemy
+I changed my mind about something
+I do not fear death. I had been dead for billions and billions of years before I was born and had not suffered the slightest inconvenience from it
+I don't have trust issues, other people have trustworthiness issues
+I don't know the key to success, but the key to failure is trying to please everybody
+I don't know what I believe
+I don't know, man, I didn't do it
+I don't talk very much because talking without thinking is not talking at all
+I find it hard to believe you don't know the beauty you are, but if you don't, let me be your eyes
+I hate purity. I hate goodness. I don't want any virtue to exist anywhere. I want everyone to be corrupt to the bones
+I have always observed that when people are interrupted in the performance of some egregious stupidity their feelings are hurt
+I have been happy before, and I will be again
+I have come to tell you that you are free
+I have known more people whose lives have been ruined by getting a Ph.D. in physics than by drugs
+I have no desire to file down my teeth and clip my claws just to make people comfortable
+I have no idea where my life is going to lead me
+I have often regretted my speech; never my silence
+I know not where I'm going The ocean will decide It's not the destination It's the beauty of the ride
+I love everything you hate about yourself
+I love you, but love is not a one way street
+I may not have gone where I intended to go, but I think I have ended up where I intended to be
+I myself am made entirely of flaws, stitched together with good intentions
+I need to know that I matter
+I never really understood the term "wage slavery" until I had a job that wasn’t
+I respect faith, but doubt is what gets you an education
+I shall stay up here. The view is quite breathtaking
+I suggest that you lead your life, not the other way round
+I talk about the gods, I an atheist. But I am an artist too, and therefore a liar. Distrust everything I say. I am telling the truth
+I thrive on attention
+I took a deep breath and let it go
+I turned my back on the world. I chose me. I fight for policy now, or for people I’ve met. For years I wasn’t sure if that made me free, or if that made me the devil. Now I know. And no, I’m never going back
+I used to be sane, then I got better
+I want a troublemaker for a lover, Blood spiller, blood drinker, a heart of flame, Who quarrels with the sky and fights with fate, Who burns like fire on the rushing sea
+I want to have a nice body, but not as much as I want dessert
+I want to know God's thoughts; the rest are details
+I want to know what I've lost today
+I want to live forever
+I was bold in the pursuit of knowledge, never fearing to follow truth and reason to whatever results they led, and bearding every authority which stood in their way
+I will always love you. Go easy on yourself
+I will not pretend to be anyone but me, I am as I am
+I would rather be exposed to the inconveniences attending too much liberty than to those attending too small a degree of it
+I'd rather have the knowledge and not need it than need the knowledge and not have it
+I'd rather live with a good question than a bad answer
+I'll "get a life" when someone can prove that it's better than what I've got now
+I'm a pretty princess
+I'm going to feel good today
+I'm not okay, you're not okay, but that's okay
+I'm of the opinion that meanness is about the nature of the action, not awareness on the part of the target of the action
+I'm sure this isn't ominous foreshadowing at all
+I'm the one who has to die, when it's time for me to die, so let me live my life the way I want to
+I've been looking at the world the wrong way. That's going to change
+I've found that people who are great at something are not so much convinced of their own greatness as mystified at why everyone else seems so incompetent
+I've learned so much from my mistakes, I'm thinking of making a few more
+If God has created the world, his primary worry was not to make its understanding easy for us
 If I don't believe I can, who will?
-If at first you don't succeed, find out if the loser gets anything.
-If at first you don't succeed, redefine success.
-If everything good lasted forever we wouldn't have time to enjoy it all.
-If it's the sort of thing you would think of when casting a Patronus Charm, then it's not a waste of time.
-If it's worth fighting for, it's worth fighting dirty for.
+If at first you don't succeed, find out if the loser gets anything
+If at first you don't succeed, redefine success
+If everything good lasted forever we wouldn't have time to enjoy it all
+If it's the sort of thing you would think of when casting a Patronus Charm, then it's not a waste of time
+If it's worth fighting for, it's worth fighting dirty for
 If life was easy, where would all the adventures be?
-If the Creator had meant us to shift rocks by witchcraft, he wouldn't have invented shovels. Knowing when to use a shovel is what being a witch is all about.
-If we are fervently passionate about the idea that fire is hot, we are more rational than the man who calmly and quietly says fire is cold.
-If you are going to do something naughty, know the length of your luck, and leave before it leads you into disaster.
-If you are interested in something, no matter what it is, go at it full speed ahead. Embrace it with both arms, hug it, love it and above all become passionate about it. Lukewarm is no good.
-If you believe you can tell me what to think, I believe I can tell you where to go.
-If you can do no good, at least do no harm.
-If you can't explain it simply, you don't understand it well enough.
-If you can't keep up, don't try to keep up; instead, find out how to keep up, and do that.
-If you can't make the whole world right, at least try to make the world right around you, whole.
+If the Creator had meant us to shift rocks by witchcraft, he wouldn't have invented shovels. Knowing when to use a shovel is what being a witch is all about
+If we are fervently passionate about the idea that fire is hot, we are more rational than the man who calmly and quietly says fire is cold
+If you are going to do something naughty, know the length of your luck, and leave before it leads you into disaster
+If you are interested in something, no matter what it is, go at it full speed ahead. Embrace it with both arms, hug it, love it and above all become passionate about it. Lukewarm is no good
+If you believe you can tell me what to think, I believe I can tell you where to go
+If you can do no good, at least do no harm
+If you can't explain it simply, you don't understand it well enough
+If you can't keep up, don't try to keep up; instead, find out how to keep up, and do that
+If you can't make the whole world right, at least try to make the world right around you, whole
 If you could open a door to anywhere, where would you go?
-If you don't make mistakes, you're not working on hard enough problems. And that's a big mistake.
-If you obey all the rules, you miss all the fun.
-If you start running, they'll never let you stop.
-If you think about it too much, real freedom is terrifying. But if you don't think about it enough, you might not like where you end up.
-If you want something, don't wish for it. Life is too short to wait.
-Ignore the propaganda. Focus on what you see.
-Imagination is more important than knowledge, for knowledge is limited while imagination embraces the entire world.
-In a case like this, I would be highly indignant and would probably sue Reality for breach of contract.
-In all chaos there is a cosmos, in all disorder a secret order.
-In conclusion, there is no conclusion. Things go on as they always have, getting weirder all the time.
-In prosperity our friends know us; in adversity, we know our friends.
-In some circumstances, the refusal to be defeated is a refusal to be educated.
-In the middle of a world that has always been a bit mad, the cat walks with confidence.
-Insanity: a perfectly rational response to an insane world.
-Insanity: doing the same thing over and over again and expecting different results.
-Intelligence is silence, truth being invisible. But what a racket I make in declaring this.
-Inviting Eris doesn't change whether She appears or not. It only changes whether you're prepared for Her.
+If you don't make mistakes, you're not working on hard enough problems. And that's a big mistake
+If you obey all the rules, you miss all the fun
+If you start running, they'll never let you stop
+If you think about it too much, real freedom is terrifying. But if you don't think about it enough, you might not like where you end up
+If you want something, don't wish for it. Life is too short to wait
+Ignore the propaganda. Focus on what you see
+Imagination is more important than knowledge, for knowledge is limited while imagination embraces the entire world
+In a case like this, I would be highly indignant and would probably sue Reality for breach of contract
+In all chaos there is a cosmos, in all disorder a secret order
+In conclusion, there is no conclusion. Things go on as they always have, getting weirder all the time
+In prosperity our friends know us; in adversity, we know our friends
+In some circumstances, the refusal to be defeated is a refusal to be educated
+In the middle of a world that has always been a bit mad, the cat walks with confidence
+Insanity: a perfectly rational response to an insane world
+Insanity: doing the same thing over and over again and expecting different results
+Intelligence is silence, truth being invisible. But what a racket I make in declaring this
+Inviting Eris doesn't change whether She appears or not. It only changes whether you're prepared for Her
 Is it any wonder that no truly respectable society has ever trusted its artists?
 Is not the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it?
-It ain't a true crisis of faith unless things could just as easily go either way.
-It all depends on how we look at things, and not how they are in themselves.
-It doesn't matter how inspired your work is if you're not healthy.
-It is a capital mistake to theorize before you have all the evidence. It biases the judgment.
-It is a dangerous business going out your front door.
+It ain't a true crisis of faith unless things could just as easily go either way
+It all depends on how we look at things, and not how they are in themselves
+It doesn't matter how inspired your work is if you're not healthy
+It is a capital mistake to theorize before you have all the evidence. It biases the judgment
+It is a dangerous business going out your front door
 It is a risk to love. What if it doesn't work out? Ah, but what if it does?
-It is a waste of energy to be angry with a man who behaves badly, just as it is to be angry with a car that won't go.
-It is better to be hated for what you are than to be loved for what you are not.
-It is dangerous being the voice of reason when those listening want fairy tales.
-It is easier to fight for one's principles than to live up to them.
-It is good to have an end to journey towards, but it is the journey that matters in the end.
-It is not explanations that carry us forward, but our will to go on.
-It is not the function of our Government to keep the citizen from falling into error; it is the function of the citizen to keep the Government from falling into error.
-It is not who is right, but what is right that is of importance.
-It is not who you are that holds you back. It's who you think you are not.
-It is okay for me to have everything I want.
-It is possible to commit no mistakes and still lose. That is not a weakness. That is life.
-It is the mark of an educated mind to be able to entertain a thought without accepting it.
-It is useful knowledge for living to have a list of things that are good no matter what.
-It is, in the end, not a question of if we trust the other person, but if we trust ourself.
-It was not, she thought, a declaration of independence, for she still lived in a web of dependencies. It was more of a declaration of Kareen. I am who I am. Now, let's see how much I can do.
-It's a funny thing about life; if you refuse to accept anything but the best, you very often get it.
-It's all right not to hate them. It doesn't make you a bad person.
-It's amazing how much kinder people are once they feel safe.
-It's better to wake up alone knowing that you're alone, than waking up with someone and still be lonely.
-It's hard to fail, but worse never to have tried to succeed.
-It's never healthy to care more about someone else's happiness than they do.
-It's never okay to kill parts of yourself just to keep others alive.
-It's not cheating. It's using your resources.
-It's not more than you need, just more than you're used to.
-It's ok to cut an abuser out of your life. It's not ok to try to edit them out of humanity.
-It's ok to do the right thing, as long as you don't get caught.
-It's okay to just walk away.
-It's okay to taste your own tears sometimes. After all, saltwater has a funny way of healing all wounds.
-It's vital to remember who you really are. It's very important. It isn't a good idea to rely on other people or things to do it for you, you see. They always get it wrong.
-Joys are our wings.
-Just because I'm busy doesn't mean I don't love you.
-Just because something doesn't do what you planned it to do doesn't mean it's useless.
-Just because they're saying true things doesn't mean they're right.
-Just because things are obvious doesn't mean they're true.
-Just because you love someone doesn't mean you have to be involved with them. Love is not a bandage to cover wounds.
-Keep your coins, I want change.
-Kids will devour vast amounts of garbage (and it is good for them) but they are not like adults: they have not yet learned to eat plastic.
-Know thyself, because in the end there's no one else.
-Knowing your own darkness is the best method for dealing with the darknesses of other people.
-Knowledge rests not upon truth alone, but upon error also.
-Knowledge tells us that a tomato is a fruit; wisdom prevents us from putting it into fruit salad.
-Lack of communication leads to 90% of all problems. The other causes being 5% magic and 5% giant robots.
-Laws do inhibit some citizens from breaking them, and laws do specify punishments for crimes, but laws do not prevent anybody from doing anything.
-Learn how to find peace between the things that happen.
-Learn your theories as well as you can, but put them aside when you touch the miracle of a living soul.
-Less is more. But more is so much more fun.
-Let go of the parts of life you honestly don't want.
-Let them underestimate you.
-Let's drive far, far away, and not stop 'till we find home.
-Let's make better mistakes tomorrow.
-Life doesn't stop for anybody.
-Life is really simple, but we insist on making it complicated.
-Linux is user friendly, it is just careful selecting its friends.
-Listen to the ghosts.
-Listen, listen, listen, and then ask strategic questions.
-Love cures people, both the ones who give it and the ones who receive it.
-Love is giving someone the power to destroy you, but trusting them not to.
-Love is powerful and dangerous, and will hurt you if handled carelessly. The red rose is a worthy symbol of love: a flower the color of blood, and bearing thorns.
-Love others so radically they wonder why.
-Loyalty is only as good as whoever or whatever you're loyal to.
-Magic is deadly real. The Gods are not fucking around.
+It is a waste of energy to be angry with a man who behaves badly, just as it is to be angry with a car that won't go
+It is better to be hated for what you are than to be loved for what you are not
+It is dangerous being the voice of reason when those listening want fairy tales
+It is easier to fight for one's principles than to live up to them
+It is good to have an end to journey towards, but it is the journey that matters in the end
+It is not explanations that carry us forward, but our will to go on
+It is not the function of our Government to keep the citizen from falling into error; it is the function of the citizen to keep the Government from falling into error
+It is not who is right, but what is right that is of importance
+It is not who you are that holds you back. It's who you think you are not
+It is okay for me to have everything I want
+It is possible to commit no mistakes and still lose. That is not a weakness. That is life
+It is the mark of an educated mind to be able to entertain a thought without accepting it
+It is useful knowledge for living to have a list of things that are good no matter what
+It is, in the end, not a question of if we trust the other person, but if we trust ourself
+It was not, she thought, a declaration of independence, for she still lived in a web of dependencies. It was more of a declaration of Kareen. I am who I am. Now, let's see how much I can do
+It's a funny thing about life; if you refuse to accept anything but the best, you very often get it
+It's all right not to hate them. It doesn't make you a bad person
+It's amazing how much kinder people are once they feel safe
+It's better to wake up alone knowing that you're alone, than waking up with someone and still be lonely
+It's hard to fail, but worse never to have tried to succeed
+It's never healthy to care more about someone else's happiness than they do
+It's never okay to kill parts of yourself just to keep others alive
+It's not cheating. It's using your resources
+It's not more than you need, just more than you're used to
+It's ok to cut an abuser out of your life. It's not ok to try to edit them out of humanity
+It's ok to do the right thing, as long as you don't get caught
+It's okay to just walk away
+It's okay to taste your own tears sometimes. After all, saltwater has a funny way of healing all wounds
+It's vital to remember who you really are. It's very important. It isn't a good idea to rely on other people or things to do it for you, you see. They always get it wrong
+Joys are our wings
+Just because I'm busy doesn't mean I don't love you
+Just because something doesn't do what you planned it to do doesn't mean it's useless
+Just because they're saying true things doesn't mean they're right
+Just because things are obvious doesn't mean they're true
+Just because you love someone doesn't mean you have to be involved with them. Love is not a bandage to cover wounds
+Keep your coins, I want change
+Kids will devour vast amounts of garbage (and it is good for them) but they are not like adults: they have not yet learned to eat plastic
+Know thyself, because in the end there's no one else
+Knowing your own darkness is the best method for dealing with the darknesses of other people
+Knowledge rests not upon truth alone, but upon error also
+Knowledge tells us that a tomato is a fruit; wisdom prevents us from putting it into fruit salad
+Lack of communication leads to 90% of all problems. The other causes being 5% magic and 5% giant robots
+Laws do inhibit some citizens from breaking them, and laws do specify punishments for crimes, but laws do not prevent anybody from doing anything
+Learn how to find peace between the things that happen
+Learn your theories as well as you can, but put them aside when you touch the miracle of a living soul
+Less is more. But more is so much more fun
+Let go of the parts of life you honestly don't want
+Let them underestimate you
+Let's drive far, far away, and not stop 'till we find home
+Let's make better mistakes tomorrow
+Life doesn't stop for anybody
+Life is really simple, but we insist on making it complicated
+Linux is user friendly, it is just careful selecting its friends
+Listen to the ghosts
+Listen, listen, listen, and then ask strategic questions
+Love cures people, both the ones who give it and the ones who receive it
+Love is giving someone the power to destroy you, but trusting them not to
+Love is powerful and dangerous, and will hurt you if handled carelessly. The red rose is a worthy symbol of love: a flower the color of blood, and bearing thorns
+Love others so radically they wonder why
+Loyalty is only as good as whoever or whatever you're loyal to
+Magic is deadly real. The Gods are not fucking around
 Make Art, Not War
-Make a fist with your hand and understand that you still have fight left in you. Don't give up on yourself just yet.
-Make a habit of paying attention to things you're not supposed to.
-Make peace with your past, so it won't mess up the present.
-Make the future a past you don't want to change.
-Maybe a relationship is just two idiots who don't know a damn thing except the fact that they're willing to figure it out together.
-Militant Agnostic. I don't know, and you don't either!
-Mistakes are the usual bridge between inexperience and wisdom.
-Moloch is your enemy.
-Monoculture is not a healthy diet.
-Most human beings have an almost infinite capacity for taking things for granted.
+Make a fist with your hand and understand that you still have fight left in you. Don't give up on yourself just yet
+Make a habit of paying attention to things you're not supposed to
+Make peace with your past, so it won't mess up the present
+Make the future a past you don't want to change
+Maybe a relationship is just two idiots who don't know a damn thing except the fact that they're willing to figure it out together
+Militant Agnostic. I don't know, and you don't either
+Mistakes are the usual bridge between inexperience and wisdom
+Moloch is your enemy
+Monoculture is not a healthy diet
+Most human beings have an almost infinite capacity for taking things for granted
 Most things are, in fact, slippery slopes. And if you start backing off from one thing because it's a slippery slope, who knows where you'll stop?
-Most truths are so naked that people feel sorry for them and cover them up, at least a little bit.
-My needs destroy the paths through which those needs could be fulfilled.
-Nature understands no jesting. She is always true, always serious, always severe. She is always right, and the errors are always those of man.
-Never apologize for showing feeling. When you do so, you apologize for the truth.
-Never assume that a friendly person is a kind one.
-Never be ashamed to make goals that are glaringly simple. You'll be far better off than most who don't set goals at all.
-Never be loyal to anyone who isn't loyal to you back.
-Never confuse motion with action.
-Never ever apologize for giving your best in a relationship that just didn't work out.
-Never fear shadows. They simply mean there's a light shining somewhere nearby.
-Never trust those who refuse to admit their mistakes.
-Never trust those who would deny you information.
-No matter what people tell you, words and ideas can change the world.
-No matter what you think you are, you are always much more.
-No truth can make another truth untrue. All knowledge is part of the whole knowledge. Once you have seen the larger pattern, You cannot get back to seeing the part as the whole.
-No, we Erisians seldom pray, it is much too dangerous.
-Nobody cares about everything, but everybody cares about something.
-Nobody is superior, nobody is inferior, but nobody is equal either. People are simply unique, incomparable.
-Nobody learns nuthin' from things goin' right.
-Nobody remembers the words of our enemies, but we do remember the silence of our friends.
-Nobody, as long as he moves about among the chaotic currents of life, is without trouble.
-Not everybody gets to go home.
-Not very many people wind up playing the bagpipes by accident.
-Nothing about me has ever been original.
-Nothing defines humans better than their willingness to do irrational things in the pursuit of phenomenally unlikely payoffs. This is the principle behind lotteries, dating, and religion.
-Nothing in this world is good or bad, but thinking makes it so.
-Nothing is impossible when you work for the circus.
-Nothing is interesting if you are not interested.
-Nothing is more truly horrifying than the limits of human behavior.
-Nothing is so difficult as not deceiving oneself.
-Nothing is so strong as gentleness, nothing so gentle as real strength.
-Nothing strengthens the judgment and quickens the conscience like individual responsibility.
-Now's the time to rouse yourself, spend the strength you've saved.
-Observe rules, from a safe distance.
-Often the hands will solve a mystery that the intellect has struggled with in vain.
-Once I learn to love myself, I promise I'll love you next.
-One must have limits and not give in to the wild desires to be all things to all people.
-One never needs enemies, but they are so much fun to acquire.
-One person with courage is a majority.
-One person's insanity is another's vision.
-Only the wisest and stupidest of men never change.
-Only those who dare to fail greatly can ever achieve greatly.
-Our awareness is all that is alive and maybe sacred in any of us. Everything else about us is dead machinery.
-Our deepest fear is that we are already perfect.
-Our gods are dead. Ancient Klingon warriors slew them millenia ago. They were more trouble than they were worth.
-Our language for describing emotions is very crude... that's what music is for, I guess.
-Out beyond the ideas of right doing and wrong doing, there is a field. I'll meet you there.
-People are always amazed by how much "free time" I have. They're also amazed that I don't know who Ally McBeal is. Frankly, I'm amazed that they can't make the connection.
+Most truths are so naked that people feel sorry for them and cover them up, at least a little bit
+My needs destroy the paths through which those needs could be fulfilled
+Nature understands no jesting. She is always true, always serious, always severe. She is always right, and the errors are always those of man
+Never apologize for showing feeling. When you do so, you apologize for the truth
+Never assume that a friendly person is a kind one
+Never be ashamed to make goals that are glaringly simple. You'll be far better off than most who don't set goals at all
+Never be loyal to anyone who isn't loyal to you back
+Never confuse motion with action
+Never ever apologize for giving your best in a relationship that just didn't work out
+Never fear shadows. They simply mean there's a light shining somewhere nearby
+Never trust those who refuse to admit their mistakes
+Never trust those who would deny you information
+No matter what people tell you, words and ideas can change the world
+No matter what you think you are, you are always much more
+No truth can make another truth untrue. All knowledge is part of the whole knowledge. Once you have seen the larger pattern, You cannot get back to seeing the part as the whole
+No, we Erisians seldom pray, it is much too dangerous
+Nobody cares about everything, but everybody cares about something
+Nobody is superior, nobody is inferior, but nobody is equal either. People are simply unique, incomparable
+Nobody learns nuthin' from things goin' right
+Nobody remembers the words of our enemies, but we do remember the silence of our friends
+Nobody, as long as he moves about among the chaotic currents of life, is without trouble
+Not everybody gets to go home
+Not very many people wind up playing the bagpipes by accident
+Nothing about me has ever been original
+Nothing defines humans better than their willingness to do irrational things in the pursuit of phenomenally unlikely payoffs. This is the principle behind lotteries, dating, and religion
+Nothing in this world is good or bad, but thinking makes it so
+Nothing is impossible when you work for the circus
+Nothing is interesting if you are not interested
+Nothing is more truly horrifying than the limits of human behavior
+Nothing is so difficult as not deceiving oneself
+Nothing is so strong as gentleness, nothing so gentle as real strength
+Nothing strengthens the judgment and quickens the conscience like individual responsibility
+Now's the time to rouse yourself, spend the strength you've saved
+Observe rules, from a safe distance
+Often the hands will solve a mystery that the intellect has struggled with in vain
+Once I learn to love myself, I promise I'll love you next
+One must have limits and not give in to the wild desires to be all things to all people
+One never needs enemies, but they are so much fun to acquire
+One person with courage is a majority
+One person's insanity is another's vision
+Only the wisest and stupidest of men never change
+Only those who dare to fail greatly can ever achieve greatly
+Our awareness is all that is alive and maybe sacred in any of us. Everything else about us is dead machinery
+Our deepest fear is that we are already perfect
+Our gods are dead. Ancient Klingon warriors slew them millenia ago. They were more trouble than they were worth
+Our language for describing emotions is very crude... that's what music is for, I guess
+Out beyond the ideas of right doing and wrong doing, there is a field. I'll meet you there
+People are always amazed by how much "free time" I have. They're also amazed that I don't know who Ally McBeal is. Frankly, I'm amazed that they can't make the connection
 People are not lazy. They simply have goals that do not inspire them. Remember to follow you heart. What inspires you?
-People do not find the truth because it is not what they are looking for.
-Perfection is our goal. Excellence will be tolerated.
-Perfection is the enemy of the good.
-Personal's not the same as important.
-Possessing knowledge has two advantages: you judge less, and you judge better.
+People do not find the truth because it is not what they are looking for
+Perfection is our goal. Excellence will be tolerated
+Perfection is the enemy of the good
+Personal's not the same as important
+Possessing knowledge has two advantages: you judge less, and you judge better
 Power Corrupts. Isn't that what it's for?
-Power and accountability must go together.
-Power never has a singe edge.
-Pretend to be good always, and even God will be fooled.
-Promoting less than maximally accurate beliefs is an act of sabotage. Don't do it to anyone unless you'd also slash their tires.
-Proudly marching to the beat of a different kettle of fish.
-Prove you exist.
-Quantity always trumps quality.
-Reach for happiness anyway.
-Real change doesn't have a dead president's face on it.
-Real knowledge is to know the extent of one's ignorance.
-Real life should be more like video games.
-Reality is merely an illusion, albeit a persistent one.
+Power and accountability must go together
+Power never has a singe edge
+Pretend to be good always, and even God will be fooled
+Promoting less than maximally accurate beliefs is an act of sabotage. Don't do it to anyone unless you'd also slash their tires
+Proudly marching to the beat of a different kettle of fish
+Prove you exist
+Quantity always trumps quality
+Reach for happiness anyway
+Real change doesn't have a dead president's face on it
+Real knowledge is to know the extent of one's ignorance
+Real life should be more like video games
+Reality is merely an illusion, albeit a persistent one
 Really? Humans have been wrestling with that problem for thousands of years and you expect me to solve it in an afternoon?
-Reason is a weapon used by people who do not want to acknowledge their anger.
-Redemption and assimilation are very different things.
-Remember that this is what you love to do.
-Remember the monk Nopants who went up the mountain and discovered that he was an asshole on a mountain.
-Remember what is important to you.
-Repeated words turn into idols.
-Replace fear of the unknown with curiosity.
-Resistance is not futile. Trying to be a person whose actions, thoughts, and feelings are completely unaffected by abuse is.
-Rest easy with the knowledge that the people who have done you wrong can't sleep at night.
-Rights are like tools: they won't do you any good if you forget you have them.
-Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical. Expect more than others think is possible.
-SOMEBODY HAD TO PUT ALL OF THIS CONFUSION HERE!
-Say yes to the things that will make you happy.
+Reason is a weapon used by people who do not want to acknowledge their anger
+Redemption and assimilation are very different things
+Remember that this is what you love to do
+Remember the monk Nopants who went up the mountain and discovered that he was an asshole on a mountain
+Remember what is important to you
+Repeated words turn into idols
+Replace fear of the unknown with curiosity
+Resistance is not futile. Trying to be a person whose actions, thoughts, and feelings are completely unaffected by abuse is
+Rest easy with the knowledge that the people who have done you wrong can't sleep at night
+Rights are like tools: they won't do you any good if you forget you have them
+Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical. Expect more than others think is possible
+SOMEBODY HAD TO PUT ALL OF THIS CONFUSION HERE
+Say yes to the things that will make you happy
 See a person's means of getting things. Observe his motives. Examine that in which he rests. How can a person conceal his character?
-Seize control of the means of production of culture.
-Set me free, so I can love again.
-Sex is a great mana, and therefore the immature society, or psyche, sets great taboos about it.
-Shared pain is lessened. Shared joy is increased. Thus we refute entropy.
-She had been trying to cope with a theophany; she had looked at me and seen a god. A particular god. And I knew, suddenly, with utter shattering certainty, which one it was.
-She was a silent little girl, and she would not be defeated.
-Shit happens.
-Show me a sane man and I will cure him for you.
-Shrinking away from death is something unhealthy and abnormal which robs the second half of life of its purpose.
-Simplicity does not precede complexity, but follows it.
+Seize control of the means of production of culture
+Set me free, so I can love again
+Sex is a great mana, and therefore the immature society, or psyche, sets great taboos about it
+Shared pain is lessened. Shared joy is increased. Thus we refute entropy
+She had been trying to cope with a theophany; she had looked at me and seen a god. A particular god. And I knew, suddenly, with utter shattering certainty, which one it was
+She was a silent little girl, and she would not be defeated
+Shit happens
+Show me a sane man and I will cure him for you
+Shrinking away from death is something unhealthy and abnormal which robs the second half of life of its purpose
+Simplicity does not precede complexity, but follows it
 Since when do you have to agree with people to defend them from injustice?
-Skill is successfully walking a tightrope over Niagara Falls. Intelligence is not trying.
-So it goes.
-So live that you can look any man in the eye and tell him to go to hell.
-So often when one level of delusion goes away, another one more subtle comes in its place.
-Some art is made by humans, and some art is made by gods.
-Some people are born on third base and grow up thinking they hit a triple.
-Some people need to be reassured that they're not hurting anyone, that they're doing okay.
-Some people never go crazy. What truly horrible lives they must lead.
-Sometimes bad guys are the only good guys you can get.
-Sometimes the answer is obvious.
-Sometimes we reach the boiling point before we realize that the stove is on. Become aware of your feelings, keep your eye on the stove.
-Sometimes when I'm angry, I have the right to be angry, but that doesn't give me the right to be cruel.
-Sometimes you forget that subtext is a thing you are allowed to acknowledge and interpret.
-Sometimes you need to burn bridges to stop yourself from crossing them again.
-Sometimes, to find out what your personality is, you need to stretch it to its limits, and then see what shape it snaps back into.
-Sometimes, we have to let go to appreciate what there is to hold onto.
-Specific is good.
-Stay weird. Stay different. And then when it's your turn to stand on this stage, please pass the same message to the next person who comes along.
-Success consists of going from failure to failure without loss of enthusiasm.
-Sure it's simple, writing for kids. Just as simple as bringing them up.
-Surveillance is espionage. Espionage is war.
-Take care of the people, and God Almighty will take care of himself.
-Take chances, make mistakes, and get messy.
-Take every chance. Drop every fear.
+Skill is successfully walking a tightrope over Niagara Falls. Intelligence is not trying
+So it goes
+So live that you can look any man in the eye and tell him to go to hell
+So often when one level of delusion goes away, another one more subtle comes in its place
+Some art is made by humans, and some art is made by gods
+Some people are born on third base and grow up thinking they hit a triple
+Some people need to be reassured that they're not hurting anyone, that they're doing okay
+Some people never go crazy. What truly horrible lives they must lead
+Sometimes bad guys are the only good guys you can get
+Sometimes the answer is obvious
+Sometimes we reach the boiling point before we realize that the stove is on. Become aware of your feelings, keep your eye on the stove
+Sometimes when I'm angry, I have the right to be angry, but that doesn't give me the right to be cruel
+Sometimes you forget that subtext is a thing you are allowed to acknowledge and interpret
+Sometimes you need to burn bridges to stop yourself from crossing them again
+Sometimes, to find out what your personality is, you need to stretch it to its limits, and then see what shape it snaps back into
+Sometimes, we have to let go to appreciate what there is to hold onto
+Specific is good
+Stay weird. Stay different. And then when it's your turn to stand on this stage, please pass the same message to the next person who comes along
+Success consists of going from failure to failure without loss of enthusiasm
+Sure it's simple, writing for kids. Just as simple as bringing them up
+Surveillance is espionage. Espionage is war
+Take care of the people, and God Almighty will take care of himself
+Take chances, make mistakes, and get messy
+Take every chance. Drop every fear
 Taste of the fruit of the tree that is knowledge, Of good and of evil and all the world’s lore. A creature’s thought must exceed what it’s taught, Or who is heaven for?
-Technology is the active human interface with the material world.
-Television is like a really, really good screen saver.
-That which can be asserted without evidence can be dismissed without evidence.
-That which can be destroyed by the truth, should be.
-The Man does not love you. Do not trust his smiling face.
-The answers are everywhere.
-The best intelligence test is what we do with our leisure.
-The best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.
-The best things in life aren't things.
-The biggest lie on the planet: When I get what I want, I'll be happy.
-The conclusion is true, but the syllogism is flawed.
-The corporation is your enemy.
-The day the child realizes that all adults are imperfect he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself, he becomes wise.
-The debt we owe to the play of imagination is incalculable.
-The desire to understand the world and the desire to reform it are the two great engines of progress.
-The difficult part of life is not when no one understands you. It's when you don't understand yourself.
-The difficulty lies not so much in developing new ideas as in escaping from old ones.
-The education of a person is never completed until he dies.
-The efficacy of a worldview is measured by how well it lets you function in the world you are viewing at that time.
-The end justifies the means. But what if there never was an end? All we have is means.
-The existence of a well written, persuasive argument does not actually prove that its conclusion is right.
-The fact that you are willing to say "I don't understand, and it is fine," is the greatest understanding you could exhibit.
-The first principle is that you must not fool yourself and you are the easiest person to fool.
-The future belongs to the few of us still willing to get our hands dirty.
-The greatest challenge to any thinker is stating the problem in a way that will allow a solution.
-The greatest cunning is to have none at all.
-The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.
-The greatest obstacle to discovery is not ignorance; it is the illusion of knowledge.
-The greatest thing in this world is not so much where we are, but in what direction we are moving.
-The greatest tragedy in life is not death; the greatest tragedy takes place when our talents and capabilities are underutilized and allowed to rust while we are living.
-The heart wants what the heart wants.
-The key to compassion is having your mind prepared for the awareness of how you can help others.
-The least of things with a meaning is worth more in life than the greatest of things without it.
-The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.
-The mind you save is often your own.
-The most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.
+Technology is the active human interface with the material world
+Television is like a really, really good screen saver
+That which can be asserted without evidence can be dismissed without evidence
+That which can be destroyed by the truth, should be
+The Man does not love you. Do not trust his smiling face
+The answers are everywhere
+The best intelligence test is what we do with our leisure
+The best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing
+The best things in life aren't things
+The biggest lie on the planet: When I get what I want, I'll be happy
+The conclusion is true, but the syllogism is flawed
+The corporation is your enemy
+The day the child realizes that all adults are imperfect he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself, he becomes wise
+The debt we owe to the play of imagination is incalculable
+The desire to understand the world and the desire to reform it are the two great engines of progress
+The difficult part of life is not when no one understands you. It's when you don't understand yourself
+The difficulty lies not so much in developing new ideas as in escaping from old ones
+The education of a person is never completed until he dies
+The efficacy of a worldview is measured by how well it lets you function in the world you are viewing at that time
+The end justifies the means. But what if there never was an end? All we have is means
+The existence of a well written, persuasive argument does not actually prove that its conclusion is right
+The fact that you are willing to say "I don't understand, and it is fine," is the greatest understanding you could exhibit
+The first principle is that you must not fool yourself and you are the easiest person to fool
+The future belongs to the few of us still willing to get our hands dirty
+The greatest challenge to any thinker is stating the problem in a way that will allow a solution
+The greatest cunning is to have none at all
+The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it
+The greatest obstacle to discovery is not ignorance; it is the illusion of knowledge
+The greatest thing in this world is not so much where we are, but in what direction we are moving
+The greatest tragedy in life is not death; the greatest tragedy takes place when our talents and capabilities are underutilized and allowed to rust while we are living
+The heart wants what the heart wants
+The key to compassion is having your mind prepared for the awareness of how you can help others
+The least of things with a meaning is worth more in life than the greatest of things without it
+The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed
+The mind you save is often your own
+The most daring thing is to create stable communities in which the terrible disease of loneliness can be cured
 The most exciting phrase to hear in science, the one that heralds new discoveries, is not "Eureka!" (I found it!) but "That's funny ..."
-The most important thing in life is to stop saying "I wish" and start saying "I will". Consider nothing impossible.
-The mysterium tremendum is within reach of everyone, "closer to you" (as the Koran puts it) "than the vein in your neck".
-The nicest things happen when you least expect them.
-The only difference is that this time they got caught.
-The only dumb question is the one you assume the answer to.
-The only thing that interferes with my learning is my education.
-The only thing that makes life possible is permanent, intolerable uncertainty: not knowing what comes next.
-The only thing to regret in life is not regretting anything.
-The only tyrant I accept in this world is the still voice within.
-The past is a dream, the future never comes, the "now" is all we have.
-The pendulum of the mind alternates between sense and nonsense, not between right and wrong.
-The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
-The plural of "anecdote" is not "data".
-The problem is that building an adult is itself an adult challenge.
-The richest man is not he who has the most, but he who needs the least.
-The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
-The superior man acts before he speaks, and afterwards speaks according to his actions.
-The task that you do not wish to do will always be difficult.
-The thing I look for in a god is, when you put yourself in their hands, they go o.O and hand you back.
-The time is always right to do what is right.
-The trajectory to hell is paved with locally good intentions.
-The truth is not always the same as the majority decision.
-The truth may wound, but it cuts clean.
-The unknown has always scared you, but there is an entire universe inside of you, and I promise that it's worth exploring.
-The very best thing you can do for the whole world is to make the most of yourself.
-The views expressed here do not necessarily represent the unanimous view of all parts of my mind.
-The wages of sin is death but so is the salary of virtue, and at least the evil get to go home early on Fridays.
-The wisdom of the wise, and the experience of ages, may be preserved by quotation.
-The word "happiness" would lose its meaning if it were not balanced by sadness.
-The world breaks everyone and afterward many are strong in the broken places. But those that will not break it kills. It kills the very good, and the very gentle, and the very brave, impartially.
-The world can be amazing when you're slightly strange.
-The world has no right to my heart.
-The world is unknowably vast.
-The world stands aside to let anyone pass who knows where he is going.
-The worst mistake anyone can make is being to afraid to make one.
-The zondervoze is your enemy.
-There are a lot of good people around.
-There are casualties on the winning as well as on the losing side. But that doesn't alter the fact that it is winning.
-There are no facts, only interpretations.
-There are no shortcuts to any place worth going.
-There are only two mistakes one can make along the road to truth. Not going all the way, and not starting.
-There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-There are things that outweigh comfort, unless one is an old woman or a cat.
+The most important thing in life is to stop saying "I wish" and start saying "I will". Consider nothing impossible
+The mysterium tremendum is within reach of everyone, "closer to you" (as the Koran puts it) "than the vein in your neck"
+The nicest things happen when you least expect them
+The only difference is that this time they got caught
+The only dumb question is the one you assume the answer to
+The only thing that interferes with my learning is my education
+The only thing that makes life possible is permanent, intolerable uncertainty: not knowing what comes next
+The only thing to regret in life is not regretting anything
+The only tyrant I accept in this world is the still voice within
+The past is a dream, the future never comes, the "now" is all we have
+The pendulum of the mind alternates between sense and nonsense, not between right and wrong
+The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails
+The plural of "anecdote" is not "data"
+The problem is that building an adult is itself an adult challenge
+The richest man is not he who has the most, but he who needs the least
+The shoe that fits one person pinches another; there is no recipe for living that suits all cases
+The superior man acts before he speaks, and afterwards speaks according to his actions
+The task that you do not wish to do will always be difficult
+The thing I look for in a god is, when you put yourself in their hands, they go o.O and hand you back
+The time is always right to do what is right
+The trajectory to hell is paved with locally good intentions
+The truth is not always the same as the majority decision
+The truth may wound, but it cuts clean
+The unknown has always scared you, but there is an entire universe inside of you, and I promise that it's worth exploring
+The very best thing you can do for the whole world is to make the most of yourself
+The views expressed here do not necessarily represent the unanimous view of all parts of my mind
+The wages of sin is death but so is the salary of virtue, and at least the evil get to go home early on Fridays
+The wisdom of the wise, and the experience of ages, may be preserved by quotation
+The word "happiness" would lose its meaning if it were not balanced by sadness
+The world breaks everyone and afterward many are strong in the broken places. But those that will not break it kills. It kills the very good, and the very gentle, and the very brave, impartially
+The world can be amazing when you're slightly strange
+The world has no right to my heart
+The world is unknowably vast
+The world stands aside to let anyone pass who knows where he is going
+The worst mistake anyone can make is being to afraid to make one
+The zondervoze is your enemy
+There are a lot of good people around
+There are casualties on the winning as well as on the losing side. But that doesn't alter the fact that it is winning
+There are no facts, only interpretations
+There are no shortcuts to any place worth going
+There are only two mistakes one can make along the road to truth. Not going all the way, and not starting
+There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle
+There are things that outweigh comfort, unless one is an old woman or a cat
 There are two types of people, those who come into a room and say "well, here I am!" and those who come in and say "ah, there you are."
-There can be no transforming of darkness into light and of apathy into movement without emotions.
-There is a diagnosis in the DSM called "oppositional defiant disorder". Samuel A. Cartwright would be proud.
-There is a fine line between madness and genius.
-There is a great difference between worry and concern. A worried person sees a problem, and a concerned person solves a problem.
-There is no coming to consciousness without pain.
-There is no exact change.
-There is no heaven. THIS is IT.
-There is no set path. Just follow your heart.
-There is, or should be, a right to be evil.
-There's nothing wrong with being alone.
-There's nothing wrong with cackling, in moderation.
-There's nothing wrong with wanting something more.
-They like you very much but they are not the hell your whales.
+There can be no transforming of darkness into light and of apathy into movement without emotions
+There is a diagnosis in the DSM called "oppositional defiant disorder". Samuel A. Cartwright would be proud
+There is a fine line between madness and genius
+There is a great difference between worry and concern. A worried person sees a problem, and a concerned person solves a problem
+There is no coming to consciousness without pain
+There is no exact change
+There is no heaven. THIS is IT
+There is no set path. Just follow your heart
+There is, or should be, a right to be evil
+There's nothing wrong with being alone
+There's nothing wrong with cackling, in moderation
+There's nothing wrong with wanting something more
+They like you very much but they are not the hell your whales
 They probably haven't done the evil thing yet, but how long do you really think they'll continue to virtuously refrain?
-They who know the truth are not equal to those who love it, and they who love it are not equal to those who delight in it.
-Things only get weirder the longer they go on.
-This is not some irrational fear of the unknown. This is a completely rational fear of the known.
-This is your world. Shape it, or someone else will.
-This life is a test. It is only a test. Had it been a real life you would have been given instructions on how to proceed.
-Those are my principles. If you don't like them I have others.
-Those who are crazy enough to think they can change the world, usually do.
-Those who don't believe in magic will never find it.
-Thou great star! What would be thy happiness if thou hadst not those for whom thou shinest!
-Thoughts create reality.
-Time machines don't exist.
-Time slips away when unobserved.
-Time you enjoy wasting is not wasted.
-To a mouse, cheese is cheese; that's why mousetraps work.
-To be a success be daring, be first, be different.
-To be yourself is the only way to change the world.
-To believe in something, and not live it, is dishonest.
-To learn which questions are unanswerable, and not to answer them: this skill is most needful in times of stress and darkness.
-To locate the monstrosity one must search further than the monster.
-To study and not think is a waste. To think and not study is dangerous.
-To wander is to be alive.
-Today is brought to you by the word "no".
-Today, I realized it has all been worth it.
-Tomorrow never knows.
-Trust can never be deserved, only given freely.
-Truth exists. Only lies are invented.
-Truth is not always popular, but it is always right.
-Trying to be happy is like trying to build a machine for which the only specification is that it should run noiselessly.
-Unless you try and do something beyond what you have mastered, you will never grow.
-Watch where you're pointing those universals; you'll shoot someone's I out.
-We are all in the gutter, but some of us are looking at the stars.
-We are all time travelers moving at the speed of exactly 60 minutes per hour.
-We are healthy only to the extent that our ideas are humane.
-We are here to create heaven on earth.
-We are not human beings having a spiritual experience. We are spiritual beings having a human experience.
-We can do as we will, but not will as we will.
-We can do better than canon.
-We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.
-We do not inherit the earth from our ancestors, we borrow it from our children.
-We do to food what the Victorians did to sex.
-We don't see things as they are. We see them as we are.
-We have this odd delusion that we have the right and the ability to control every aspect of our vast and magnificent world.
-We have to continually be jumping off cliffs and developing our wings on the way down.
-We have to let go of a politic of disposability. We are what we've got. No one can be left to their fuck ups and the shame that comes with them because ultimately we'll be leaving ourselves behind.
-We may not have forever, but at least we have tonight.
-We must respect the other fellow's religion, but only in the same sense and to the extent that we respect his theory that his wife is beautiful and his children smart.
-We need consent culture.
-We need more stories where the dark sister was right to disobey.
-We never desire passionately what we desire by reason alone.
-We take almost all of the decisive steps in our lives as a result of slight inner adjustments of which we are barely conscious.
-We're getting really good at distracting ourselves.
-What do you do when your dreams come true? Find new ones.
-What gets us into trouble is not what we don't know, it's what we know for sure that just ain't so.
+They who know the truth are not equal to those who love it, and they who love it are not equal to those who delight in it
+Things only get weirder the longer they go on
+This is not some irrational fear of the unknown. This is a completely rational fear of the known
+This is your world. Shape it, or someone else will
+This life is a test. It is only a test. Had it been a real life you would have been given instructions on how to proceed
+Those are my principles. If you don't like them I have others
+Those who are crazy enough to think they can change the world, usually do
+Those who don't believe in magic will never find it
+Thou great star! What would be thy happiness if thou hadst not those for whom thou shinest
+Thoughts create reality
+Time machines don't exist
+Time slips away when unobserved
+Time you enjoy wasting is not wasted
+To a mouse, cheese is cheese; that's why mousetraps work
+To be a success be daring, be first, be different
+To be yourself is the only way to change the world
+To believe in something, and not live it, is dishonest
+To learn which questions are unanswerable, and not to answer them: this skill is most needful in times of stress and darkness
+To locate the monstrosity one must search further than the monster
+To study and not think is a waste. To think and not study is dangerous
+To wander is to be alive
+Today is brought to you by the word "no"
+Today, I realized it has all been worth it
+Tomorrow never knows
+Trust can never be deserved, only given freely
+Truth exists. Only lies are invented
+Truth is not always popular, but it is always right
+Trying to be happy is like trying to build a machine for which the only specification is that it should run noiselessly
+Unless you try and do something beyond what you have mastered, you will never grow
+Watch where you're pointing those universals; you'll shoot someone's I out
+We are all in the gutter, but some of us are looking at the stars
+We are all time travelers moving at the speed of exactly 60 minutes per hour
+We are healthy only to the extent that our ideas are humane
+We are here to create heaven on earth
+We are not human beings having a spiritual experience. We are spiritual beings having a human experience
+We can do as we will, but not will as we will
+We can do better than canon
+We cannot change anything until we accept it. Condemnation does not liberate, it oppresses
+We do not inherit the earth from our ancestors, we borrow it from our children
+We do to food what the Victorians did to sex
+We don't see things as they are. We see them as we are
+We have this odd delusion that we have the right and the ability to control every aspect of our vast and magnificent world
+We have to continually be jumping off cliffs and developing our wings on the way down
+We have to let go of a politic of disposability. We are what we've got. No one can be left to their fuck ups and the shame that comes with them because ultimately we'll be leaving ourselves behind
+We may not have forever, but at least we have tonight
+We must respect the other fellow's religion, but only in the same sense and to the extent that we respect his theory that his wife is beautiful and his children smart
+We need consent culture
+We need more stories where the dark sister was right to disobey
+We never desire passionately what we desire by reason alone
+We take almost all of the decisive steps in our lives as a result of slight inner adjustments of which we are barely conscious
+We're getting really good at distracting ourselves
+What do you do when your dreams come true? Find new ones
+What gets us into trouble is not what we don't know, it's what we know for sure that just ain't so
 What have I always believed?
-What is done out of love always takes place beyond good and evil.
+What is done out of love always takes place beyond good and evil
 What is stopping you from doing something that renders you immortal?
-What luck for rulers that men do not think.
-What worries you, masters you.
+What luck for rulers that men do not think
+What worries you, masters you
 What's to gain by silence?
-Whatever doesn't kill you, only makes you stranger.
-Whatever you are doing is the most beautiful thing.
-Whatever you are, be a good one.
+Whatever doesn't kill you, only makes you stranger
+Whatever you are doing is the most beautiful thing
+Whatever you are, be a good one
 When I hear somebody sigh, "Life is hard," I am always tempted to ask, "Compared to what?"
-When angry, count four; when very angry, swear.
-When one encounters Evil, the only solution is violence, actual or threatened. That's all Evil understands.
+When angry, count four; when very angry, swear
+When one encounters Evil, the only solution is violence, actual or threatened. That's all Evil understands
 When the facts change, I change my mind. What do you do, sir?
-When you accept everything for what it is without labels you are outside of your ego.
-When you are aware, you don't get to choose what you are aware of.
-When you lose your mind is when you start to find your soul.
-When you mock someone for trait X, you are mocking everyone with trait X.
-When you see a good move, look for a better one.
-When you stop and look around, this life is pretty amazing.
-When your heart speaks, take good notes.
-Whether you think that you can, or that you can't, you are usually right.
+When you accept everything for what it is without labels you are outside of your ego
+When you are aware, you don't get to choose what you are aware of
+When you lose your mind is when you start to find your soul
+When you mock someone for trait X, you are mocking everyone with trait X
+When you see a good move, look for a better one
+When you stop and look around, this life is pretty amazing
+When your heart speaks, take good notes
+Whether you think that you can, or that you can't, you are usually right
 Who are you today?
 Who has fully realized that history is not contained in thick books but lives in our very blood?
-Who looks outside, dreams; who looks inside, awakes.
-Whoever tells the longest story is always the liar. The truth isn't that complicated.
+Who looks outside, dreams; who looks inside, awakes
+Whoever tells the longest story is always the liar. The truth isn't that complicated
 Why are you so far away?
 Why stop dreaming when you wake up?
 Why walk when you can fly?
-Wiggle your toes.
-Without love, intelligence is dangerous. Without intelligence, love is not enough.
-Words are the physicians of a mind diseased.
-Work as if you don't need the money, love as if you've never been hurt, dance as if no one's watching.
-Work is play. Play is work.
-You always deserve to be the most important person in somebody's life.
-You are a lion; you are a dragon; you are abject glory and exalting flame.
-You are a victim of the rules you choose to live by.
-You are enlightened, perhaps you are unaware of this.
-You are legitimate and deserve respect and admiration.
-You are not lost. You are here.
-You are not what you own.
-You are of the wild. It is in you, and you will survive.
-You are only as sick as your secrets.
-You are unlimited.
-You are vast and you inspire terror and awe.
-You are what you love not what loves you.
-You are wonderful, in case you forgot.
-You can have anything you want, but you can't have everything you want.
-You can never get enough of what you don't need.
-You can only compromise your principles once. After then you don't have any.
-You can only see as far as you think.
+Wiggle your toes
+Without love, intelligence is dangerous. Without intelligence, love is not enough
+Words are the physicians of a mind diseased
+Work as if you don't need the money, love as if you've never been hurt, dance as if no one's watching
+Work is play. Play is work
+You always deserve to be the most important person in somebody's life
+You are a lion; you are a dragon; you are abject glory and exalting flame
+You are a victim of the rules you choose to live by
+You are enlightened, perhaps you are unaware of this
+You are legitimate and deserve respect and admiration
+You are not lost. You are here
+You are not what you own
+You are of the wild. It is in you, and you will survive
+You are only as sick as your secrets
+You are unlimited
+You are vast and you inspire terror and awe
+You are what you love not what loves you
+You are wonderful, in case you forgot
+You can have anything you want, but you can't have everything you want
+You can never get enough of what you don't need
+You can only compromise your principles once. After then you don't have any
+You can only see as far as you think
 You can't have everything. Where would you put it?
-You can't know something you don't know, unless you open to the experience of not knowing.
-You can't take the sky from me.
-You cannot improve the world just by being right.
-You carry a fire inside of you and although the flames are beautiful, you must not let them burn the ones you love.
-You could search the world over and never find anyone more deserving of your love than yourself.
-You deserve to be happy and healthy.
-You do not get to be mean to *anyone*.
-You do what you do, and they do what they do.
-You don't burn out from going too fast. You burn out from going too slow and getting bored.
-You don't get to choose who you are. You just turn up that way and the world has to deal.
-You don't overthrow your oppressors by trying to please them.
-You gave me wings when you showed me birds.
-You get what you give. Give good.
-You have been taught that there is something wrong with you, and that you are imperfect, but there isn't, and you're not.
-You have made mistakes but you are not a hurricane. No, you are as warm and as lovely as the summer rain.
+You can't know something you don't know, unless you open to the experience of not knowing
+You can't take the sky from me
+You cannot improve the world just by being right
+You carry a fire inside of you and although the flames are beautiful, you must not let them burn the ones you love
+You could search the world over and never find anyone more deserving of your love than yourself
+You deserve to be happy and healthy
+You do not get to be mean to *anyone*
+You do what you do, and they do what they do
+You don't burn out from going too fast. You burn out from going too slow and getting bored
+You don't get to choose who you are. You just turn up that way and the world has to deal
+You don't overthrow your oppressors by trying to please them
+You gave me wings when you showed me birds
+You get what you give. Give good
+You have been taught that there is something wrong with you, and that you are imperfect, but there isn't, and you're not
+You have made mistakes but you are not a hurricane. No, you are as warm and as lovely as the summer rain
 You have moved mountains and swam across oceans, so who's to say you can't save your own damn self?
-You have to break rules if you want to break free.
-You know what? Fuck it. I'm going to be happy.
-You measure a democracy by the freedom it gives its dissidents, not the freedom it gives its assimilated conformists.
-You only find yourself when you disobey. Disobedience is the beginning of responsibility, I think.
-You only live once. But if you do it right, once is enough.
-You really can do whatever you want.
-You shall know the truth and the truth shall make you odd.
-You should get to be a person from a young age, so you can get used to it.
-You will not find happiness in the same place that you lost it. Stop searching through the wreckage and rebuild the life you're meant to be living.
-You're never aware of your current point of view, only of previous ones.
-You're on the right track when people complain that you're unqualified, or that you've done something inappropriate.
-You're under no obligation to be the same person you were five minutes ago.
-Your choices at the moment will be good ones. Trust yourself.
-Your choices will change the world.
+You have to break rules if you want to break free
+You know what? Fuck it. I'm going to be happy
+You measure a democracy by the freedom it gives its dissidents, not the freedom it gives its assimilated conformists
+You only find yourself when you disobey. Disobedience is the beginning of responsibility, I think
+You only live once. But if you do it right, once is enough
+You really can do whatever you want
+You shall know the truth and the truth shall make you odd
+You should get to be a person from a young age, so you can get used to it
+You will not find happiness in the same place that you lost it. Stop searching through the wreckage and rebuild the life you're meant to be living
+You're never aware of your current point of view, only of previous ones
+You're on the right track when people complain that you're unqualified, or that you've done something inappropriate
+You're under no obligation to be the same person you were five minutes ago
+Your choices at the moment will be good ones. Trust yourself
+Your choices will change the world
 because on the internet no one knows you're a dog, or on the internet there is a pack of howling wolves we can all be part of
 wear a grin that says "sorry not sorry"
-Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
-The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
-Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
-Always do your best. What you plant now, you will harvest later.
-In order to succeed, we must first believe that we can.
-You have to learn the rules of the game. And then you have to play better than anyone else.
-A creative man is motivated by the desire to achieve, not by the desire to beat others.
-Keep your eyes on the stars, and your feet on the ground.
-Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
-Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
-Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
-Pursue one great decisive aim with force and determination.
-We may encounter many defeats but we must not be defeated.
-Do something wonderful, people may imitate it.
-"The harder the conflict, thegreater the triumph." - George Washington
-"Honesty is the first chapter of the book wisdom." - Thomas Jefferson
-"On matters of style, swim with the current, on matters of principle, stand like a rock." - Thomas Jefferson
-"The advancement and diffusion of knowledge is the only guardian of true liberty." - James Madison
-"If tyranny and oppression come to this land it will be in the guise of fighting a foreign enemy." - James Madison
-"A little flattery will support a man through great fatigue" - James Monroe
-"Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air." - John Quincy Adams
-"Try and fail, but don’t fail to try." - John Quincy Adams
-"One man with courage makes a majority." - Andrew Jackson
-"It’s easier to do a job right, than to explain why you didn’t." - Martin Van Buren
-"There is nothing more corrupting, nothing more destructive of the noblest and finest feelings of our nature, than the exercise of unlimited power." - William Henry Harrison
-"It is not strange… to mistake change for progress" - Millard Fillmore
-"You don’t know what you can miss before you try." - Franklin Pierce
-"I am a slow walker, but I never walk backwards" - Abraham Lincoln
-"In the end, it’s not the years in your life that count. It’s the life in your years" - Abraham Lincoln
-"Leave nothing for tomorrow which can be done today." - Abraham Lincoln
-"Whatever you are, be a good one." - Abraham Lincoln
-"Nearly all men can stand adversity, but if you want to test a man’s character, give him power." - Abraham Lincoln
-"If wrinkles must be written on our brow, let them not be written on our heart. The spirit should never grow old."  - James Garfield
-"Great lives never go out; they go on." - Benjamin Harrison
-"It is hard to fail, but it is worse never to have tried to succeed." - Theodore Roosevelt
-"Do what you can, with what you have, where you are." - Theodore Roosevelt
-"Be patient and calm; no one can catch a fish with anger." - Herbert Hoover
-"Words without actions are the assassins of idealism." - Herbert Hoover
-"The only thing we have to fear is fear itself." - Franklin D. Roosevelt
-"Remember, remember always, that all of us, and you and I especially, are descended from immigrants and revolutionists." - Franklin D. Roosevelt
-"What counts is not necessarily the size of the dog in the fight- it’s the size of the fight in the dog." - Dwight D. Eisenhower
-"Never question another man’s motive. His wisdom, yes, but not his motives." - Dwight D. Eisenhower
-"It’s amazing what you can accomplish if you do not care who gets the credit." - Harry S. Truman
-"Never waste a minute thinking about people you don’t like." - Dwight D. Eisenhower
-"The Chinese use two brush strokes to write the word ‘crisis.’ One brush stroke stands for danger; the other for opportunity. In a crisis, be aware of the danger-but recognize the opportunity." - John F. Kennedy
-"Conformity is the jailer of freedom and the enemy of growth." - John F. Kennedy
-"The hottest places in hell are reserved for those who, in times of great moral crisis, maintain their neutrality." - John F. Kennedy
-"One person can make a difference, and everyone should try." - John F. Kennedy
-"Forgive your enemies, but never forget their names." - John F. Kennedy
-"We become not a melting pot but a beautiful mosaic. Different people, different beliefs, different yearnings, different hopes, different dreams." - Jimmy Carter
-"Live simply, love generously, care deeply, speak kindly, leave the rest to God." - Ronald Reagan
-"I have opinions of my own - strong opinions - but I don’t always agree with them." - George H.W. Bush
-"We all do better when we work together. Our differences do matter, but our common humanity matters more." - Bill Clinton
-"When our memories outweigh our dreams, it is then that we become old." - Bill Clinton
-"There’s an old saying in Tennessee — I know it’s in Texas, probably in Tennessee — that says, fool me once, shame on — shame on you. Fool me — you can’t get fooled again." George W. Bush
-"If you’re walking down the right path and you’re willing to keep walking, eventually you’ll make progress" - Barack Obama
-"Change will not come if we wait for some other person, or if we wait for some other time. We are the ones we’ve been waiting for. We are the change that we seek." - Barack Obama
-"Yes We Can!" - Barack Obama
-"99% of failures come from people who make excuses." - George Washington
-"If your actions inspire others to dream more, learn more, do more and become more, you are a leader" - John Adams
-"It is easier to do a job right than to explain why you didn't." - Martin Van Buren
-"Success is not final; failure is not fatal: it is the courage to continue that counts." - Winston Churchill
-"Play by the rules, but be ferocious." - Phil Knight
-"Business opportunities are like buses, there’s always another one coming." - Richard Branson
-"Every problem is a gift—without problems we would not grow." - Anthony Robbins
-"You only have to do a few things right in your life so long as you don’t do too many things wrong." - Warren Buffett
-"Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
-"And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom." - Anaïs Nin
-"There’s no shortage of remarkable ideas, what’s missing is the will to execute them." - Seth Godin
-"I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite." - G.K. Chesterton
-"I don’t know the word ‘quit.’ Either I never did, or I have abolished it." - Susan Butcher
-"Far and away the best prize that life offers is the chance to work hard at work worth doing." - Theodore Roosevelt
-"If you really look closely, most overnight successes took a long time." - Steve Jobs
-"Almost everything worthwhile carries with it some sort of risk, whether it’s starting a new business, whether it’s leaving home, whether it’s getting married, or whether it’s flying into space." - Chris Hadfield
-"Even if you are on the right track, you’ll get run over if you just sit there." - Will Rodgers
-"The real test is not whether you avoid this failure, because you won’t. It’s whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere." - Barack Obama
-"Imagination is everything. It is the preview of life’s coming attractions." - Albert Einstein
-"Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired and success achieved." - Helen Keller
-"The first one gets the oyster, the second gets the shell." - Andrew Carnegie
-"The way to get started is to quit talking and begin doing." - Walt Disney
-"Whether you think you can or whether you think you can’t, you’re right!" - Henry Ford
-"There are no secrets to success. It is the result of preparation, hard work and learning from failure." - Colin Powell
-"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-"Many of life’s failures are people who did not realize how close they were to success when they gave up." - Thomas Edison
-"I feel that luck is preparation meeting opportunity." - Oprah Winfrey
-"Yesterday’s home runs don’t win today’s games." - Babe Ruth
-"The best investment is in the tools of one’s own trade." - Benjamin Franklin
-"If you really look closely, most overnight successes took a long time." - Steve Jobs
-"Don’t let the noise of others’ opinions drown out your own inner voice." - Steve Jobs
-"Being the richest man in the cemetery doesn’t matter to me. Going to bed at night saying we’ve done something wonderful… that’s what matters to me." - Steve Jobs
-Creativity is just connecting things." - Steve Jobs
-"Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary." - Steve Jobs
-"You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future." - Steve Jobs
-"Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations." - Steve Jobs
-"Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains." - Steve Jobs
-"Your time is limited, so don’t waste it living someone else’s life." - Steve Jobs
-"Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." - Steve Jobs
-"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." - Steve Jobs
-"You have to be burning with an idea, or a problem, or a wrong that you want to right. If you’re not passionate enough from the start, you’ll never stick it out." - Steve Jobs
-"Stay hungry. Stay foolish." - Steve Jobs
-"If you can dream it, you can do it." - Walt Disney
-"After you" is good manners." - Chinese Proverb
-"A child’s life is like a piece of paper on which every person leaves a mark." - Chinese Proverb
-"A gem is not polished without rubbing, nor a man perfected without trials." - Chinese Proverb
-"A single conversation with a wise man is worth a month’s study of books." - Chinese Proverb
-"Be not disturbed at being misunderstood; be disturbed rather at not being understanding." - Chinese Proverb
-"Do not afraid of moving slowly. Be afraid of standing still." - Chinese Proverb
-"Give me a fish and I eat for a day. Teach me to fish and I eat for a lifetime." - Chinese Proverb
-"He will win who knows when to fight and when not to fight." - Chinese Proverb
-"If you must play, decide upon three things at the start: the rules of the game, the stakes, and the quitting time." - Chinese Proverb
-"If your mind is strong, all difficult things will become easy. If your mind is weak, all easy things will become difficult." - Chinese Proverb
-"love at first sight. It’s generally used for people, but you can also use it for other physical objects." - Chinese Proverb
-"Opportunity knocks at the door only once." - Chinese Proverb
-"Tell me and I’ll forget. Show me and I may remember. Involves me and I’ll understand." - Chinese Proverb
-"The journey of a thousand miles must begin with a single step." - Chinese Proverb
-"Time is money, and it is difficult for one to use money to get time." - Chinese Proverb
-"When the winds of change blows, some people build walls and others build windmills." - Chinese Proverb
-"A bird does not sing because it has an answer. It sings because it has a song." - Chinese Proverb
-"A diamond with a flaw is better than a common stone that is perfect." - Chinese Proverb
-"A good book is a good friend." - Chinese Proverb
-"A straight foot is not afraid of a crooked shoe." - Chinese Proverb
-"Better to light a candle than to curse the darkness." - Chinese Proverb
-"Do not confine your children to your own learning, for they were born in another time." - Chinese Proverb
-"Giving your son a skill is better than giving him one thousand pieces of gold." - Chinese Proverb
-"I hear and I forget, I see and I remember. I do and I understand." - Chinese Proverb
-"If you plan for one year, plant rice. If you plan for ten years, plant trees, If you  plan for 100 years, educate mankind." - Chinese Proverb
-"If your strength is small, don’t carry heavy burdens. If your words are worthless, don’t give advice." - Chinese Proverb
-"Love is not about possession, it’s all about appreciation." - Chinese Proverb
-"Outside noisy, inside empty." - Chinese Proverb
-"Tension is who you think you should be. Relaxation is who you are." - Chinese Proverb
-"The person who removes a mountain begins by carrying away small stones." - Chinese Proverb
-"To believe in one’s dreams is to spend all of one’s life asleep." - Chinese Proverb
-"When you say one thing, the clever person understands three." - Chinese Proverb
-"A bit of fragrance clings to the hand that gives flowers." - Chinese Proverb
-"A filthy mouth will not utter decent language." - Chinese Proverb
-"A journey of a thousand miles begin with a single step." - Chinese Proverb
-"A wise man makes his own decisions. An ignorant man follows public opinion." - Chinese Proverb
-"Choose a job you love and you will never have to work a day in your life." - Chinese Proverb
-"Do not impose others what yourself do not desire." - Chinese Proverb
-"He who asks is a fool for five minutes, but he who does not ask remains a fool forever." - Chinese Proverb
-"If you are patient in one moment of anger, you will escape a hundred days of sorrow." - Chinese Proverb
-"If you stand straight, do not fear a crooked shadow." - Chinese Proverb
-"Insanity is doing the same thing in the same way and expecting a different outcome." - Chinese Proverb
-"Make happy those who are near, and those who are far will come." - Chinese Proverb
-"Parents who are afraid to put their foot down usually have children who step on their toes." - Chinese Proverb
-"The best fighter is never angry." - Chinese Proverb
-"The person who says something is impossible should not interrupt the person who is doing it." - Chinese Proverb
-"To forget one’s ancestor’s is to be a brook without a source, a tree without root." - Chinese Proverb
-"With true friends… even water drunk together is sweet enough." - Chinese Proverb
-"A book holds a house of gold." - Chinese Proverb
-"A fool judges people by the presents they give him." - Chinese Proverb
-"A man should choose a friend who is better than himself. There are plenty of acquaintances in the world; but very few real friends." - Chinese Proverb
-"All things are difficult before they are easy." - Chinese Proverb
-"Coming events cast their shadows before them." - Chinese Proverb
-"Don’t fear the enemy that attacks you, but the fake friend that hugs you." - Chinese Proverb
-"He who depends on himself will attain the greatest happiness." - Chinese Proverb
-"If you are planning for a year, sow rice; if you are planning for a decade, plant trees; if you are planning for a lifetime, educate people." - Chinese Proverb
-"If you survived a storm, you won’t be bothered by the rain." - Chinese Proverb
-"Learning is a treasure that will follow its owner everywhere." - Chinese Proverb
-"One generation plants the trees, and another gets the shade." - Chinese Proverb
-"Silence is a source of great strength." - Chinese Proverb
-"The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
-"The temptation to quit will be greatest just before you are about to succeed." - Chinese Proverb
-"To talk much and arrive nowhere is the same as climbing a tree to catch a fish." - Chinese Proverb
-"Your teacher can open the door, but you must enter by yourself." - Chinese Proverb
-"A book is like a garden carried in the pocket." - Chinese Proverb
-"A friend to everybody is a friend to nobody." - Chinese Proverb
-"A man who chases two rabbits catches neither." - Chinese Proverb
-"Be not afraid of growing slowly, be afraid only of standing still." - Chinese Proverb
-"Distance tests a horse’s strength. Time reveals a person’s character." - Chinese Proverb
-"Failure is not falling down but refusing to get up." - Chinese Proverb
-"He who returns from a journey is not the same as he who left." - Chinese Proverb
-"If you don’t want anyone to know it, don’t do it" - Chinese Proverb
-"Life is really simple, but we insist on making it complicated." - Chinese Proverb
-"Opportunities don’t just happen, you create them." - Chinese Proverb
-"Teachers open the door but you must walk through it yourself." - Chinese Proverb
-"The glory is not in never falling, but in rising every time you fall." - Chinese Proverb
-"There are many paths to the top of the mountain, but the view is always the same." - Chinese Proverb
-"When anger arises, think of the consequences." - Chinese Proverb
-"I did not have sexual relations with that woman" - Bill Clinton
-"The only easy day was yesterday." - US Navy SEALs
-"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him." - G.K. Chesterton
-"We sleep peaceably in our beds at night only because rough men stand ready to do violence on our behalf." - George Orwell
-"Heroism doesn’t always happen in a burst of glory. Sometimes small triumphs and large hearts change the course of history." - Mary Roach
-"You can have peace. Or you can have freedom. Don’t ever count on having both at once." - Robert A. Heinlein
-"Whoever said the pen is mightier than the sword obviously never encountered automatic weapons." - Douglas MacArthur
-"It is foolish and wrong to mourn the men who died. Rather, we should thank God that such men lived." - George S. Patton Jr.
-"There is no honor in sending men to die for something you won’t even fight for yourself" - Mark Owen
-"I’m fed up to the ears with old men dreaming up wars for young men to die in." - George S. McGovern
-"Loyalty to country ALWAYS. Loyalty to government, when it deserves it." - Mark Twain
-"The military don’t start wars. Politicians start wars." - William C. Westmoreland
-"Only the dead have seen the end of war." - Plato
-"Listen up, there’s no war that will end all wars." - Haruki Murakami
-"Do not swallow bait offered by the enemy. Do not interfere with an army that is returning home." - Sun Tzu
-"It is fatal to enter a war without the will to win it." - Douglas MacArthur
-"When the rich wage war it’s the poor who die." - Jean-Paul Sartre
-"Sometimes you have to pick the gun up to put the gun down." - Malcolm X
-"If I charge, follow me. If I retreat, kill me. If I die, revenge me." - U.S. Marine Corps
-"War is too important to be left to the generals." - Georges Clémenceau
-"When something is important enough, you do it even if the odds are not in your favor." - Elon Musk
-"Some people don't like change, but you need to embrace change if the alternative is disaster." - Elon Musk
-"Failure is an option here. If things are not failing, you are not innovating enough." - Elon Musk
-"The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design." - Elon Musk
-"Persistence is very important. You should not give up unless you are forced to give up." - Elon Musk
-"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better." - Elon Musk
-"There's a tremendous bias against taking risks. Everyone is trying to optimize their ass-covering." - Elon Musk
-"It's OK to have your eggs in one basket as long as you control what happens to that basket." - Elon Musk
-"I don't think it's a good idea to plan to sell a company." - Elon Musk
-"People work better when they know what the goal is and why. It is important that people look forward to coming to work in the morning and enjoy working." - Elon Musk
-"If you're cofounder or CEO, you have to do all kinds of tasks you might not want to do... If you don't do your chores, the company won't succeed... No task is too menial." - Elon Musk
-"I say something, and then it usually happens. Maybe not on schedule, but it usually happens." - Elon Musk
-"I don't spend my time pontificating about high concept things; I spend my time solving engineering and manufacturing problems." - Elon Musk
-"My biggest mistake is probably weighing too much on someone's talent and not someone's personality. I think it matters whether someone has a good heart." - Elon Musk
-"I don't create companies for the sake of creating companies, but to get things done." - Elon Musk
-"Starting and growing a business is as much about the innovation, drive, and determination of the people behind it as the product they sell." - Elon Musk
-"The first step is to establish that something is possible; then probability will occur." - Elon Musk
-"I've actually not read any books on time management." - Elon Musk
-"I'm interested in things that change the world or that affect the future and wondrous, new technology where you see it, and you're like, 'Wow, how did that even happen? How is that possible?'" - Elon Musk
-"Really pay attention to negative feedback and solicit it, particularly from friends. ... Hardly anyone does that, and it's incredibly helpful." - Elon Musk
-"If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not." - Elon Musk
-"What makes innovative thinking happen?... I think it's really a mindset. You have to decide." - Elon Musk
-"People should pursue what they're passionate about. That will make them happier than pretty much anything else." - Elon Musk
-"Being an entrepreneur is like eating glass and staring into the abyss of death." - Elon Musk
-"I wouldn't say I have a lack of fear. In fact, I'd like my fear emotion to be less because it's very distracting and fries my nervous system." - Elon Musk
-"If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion." - Elon Musk
-"I think most of the important stuff on the Internet has been built. There will be continued innovation, for sure, but the great problems of the Internet have essentially been solved." - Elon Musk
-"I think we have a duty to maintain the light of consciousness to make sure it continues into the future." - Elon Musk
-"When Henry Ford made cheap, reliable cars, people said, 'Nah, what's wrong with a horse?' That was a huge bet he made, and it worked." - Elon Musk
-"When somebody has a breakthrough innovation, it is rarely one little thing. Very rarely, is it one little thing. It's usually a whole bunch of things that collectively amount to a huge innovation." - Elon Musk
-"You shouldn't do things differently just because they're different. They need to be... better." - Elon Musk
-"You have to say, 'Well, why did it succeed where others did not?'" - Elon Musk
-"It's very important to like the people you work with, otherwise life [and] your job is gonna be quite miserable." - Elon Musk
-"We have a strict 'no assholes policy' at SpaceX." - Elon Musk
-"Disruptive technology where you really have a big technology discontinuity... tends to come from new companies." - Elon Musk
-"As much as possible, avoid hiring MBAs. MBA programs don't teach people how to create companies." - Elon Musk
-"Don't delude yourself into thinking something's working when it's not, or you're gonna get fixated on a bad solution." - Elon Musk
-"I always have optimism, but I'm realistic. It was not with the expectation of great success that I started Tesla or SpaceX... It's just that I thought they were important enough to do anyway."
-"The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy." - Sun Tzu
-"All warfare is based on deception." - Sun Tzu
-"The supreme art of war is to subdue the enemy without fighting." - Sun Tzu
-"Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting." - Sun Tzu
-"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." - Sun Tzu
-"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win." - Sun Tzu
-"Opportunities multiply as they are seized." - Sun Tzu
-"The opportunity to secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself." - Sun Tzu
-"There is no instance of a nation benefitting from prolonged warfare." - Sun Tzu
-"Know thy self, know thy enemy. A thousand battles, a thousand victories" - Sun Tzu
-"That's one small step for a man, one giant leap for mankind." - Neil Armstrong
+Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time
+The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence
+Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time
+Always do your best. What you plant now, you will harvest later
+In order to succeed, we must first believe that we can
+You have to learn the rules of the game. And then you have to play better than anyone else
+A creative man is motivated by the desire to achieve, not by the desire to beat others
+Keep your eyes on the stars, and your feet on the ground
+Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy
+Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence
+Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better
+Pursue one great decisive aim with force and determination
+We may encounter many defeats but we must not be defeated
+Do something wonderful, people may imitate it
+The harder the conflict, thegreater the triumph - George Washington
+Honesty is the first chapter of the book wisdom - Thomas Jefferson
+On matters of style, swim with the current, on matters of principle, stand like a rock - Thomas Jefferson
+The advancement and diffusion of knowledge is the only guardian of true liberty - James Madison
+If tyranny and oppression come to this land it will be in the guise of fighting a foreign enemy - James Madison
+A little flattery will support a man through great fatigue - James Monroe
+Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air - John Quincy Adams
+Try and fail, but don’t fail to try - John Quincy Adams
+One man with courage makes a majority - Andrew Jackson
+It’s easier to do a job right, than to explain why you didn’t - Martin Van Buren
+There is nothing more corrupting, nothing more destructive of the noblest and finest feelings of our nature, than the exercise of unlimited power - William Henry Harrison
+It is not strange… to mistake change for progress - Millard Fillmore
+You don’t know what you can miss before you try - Franklin Pierce
+I am a slow walker, but I never walk backwards - Abraham Lincoln
+In the end, it’s not the years in your life that count. It’s the life in your years - Abraham Lincoln
+Leave nothing for tomorrow which can be done today - Abraham Lincoln
+Whatever you are, be a good one - Abraham Lincoln
+Nearly all men can stand adversity, but if you want to test a man’s character, give him power - Abraham Lincoln
+If wrinkles must be written on our brow, let them not be written on our heart. The spirit should never grow old."  - James Garfield
+Great lives never go out; they go on - Benjamin Harrison
+It is hard to fail, but it is worse never to have tried to succeed - Theodore Roosevelt
+Do what you can, with what you have, where you are - Theodore Roosevelt
+Be patient and calm; no one can catch a fish with anger - Herbert Hoover
+Words without actions are the assassins of idealism - Herbert Hoover
+The only thing we have to fear is fear itself - Franklin D. Roosevelt
+Remember, remember always, that all of us, and you and I especially, are descended from immigrants and revolutionists - Franklin D. Roosevelt
+What counts is not necessarily the size of the dog in the fight- it’s the size of the fight in the dog - Dwight D. Eisenhower
+Never question another man’s motive. His wisdom, yes, but not his motives - Dwight D. Eisenhower
+It’s amazing what you can accomplish if you do not care who gets the credit - Harry S. Truman
+Never waste a minute thinking about people you don’t like - Dwight D. Eisenhower
+The Chinese use two brush strokes to write the word ‘crisis.’ One brush stroke stands for danger; the other for opportunity. In a crisis, be aware of the danger-but recognize the opportunity - John F. Kennedy
+Conformity is the jailer of freedom and the enemy of growth - John F. Kennedy
+The hottest places in hell are reserved for those who, in times of great moral crisis, maintain their neutrality - John F. Kennedy
+One person can make a difference, and everyone should try - John F. Kennedy
+Forgive your enemies, but never forget their names - John F. Kennedy
+We become not a melting pot but a beautiful mosaic. Different people, different beliefs, different yearnings, different hopes, different dreams - Jimmy Carter
+Live simply, love generously, care deeply, speak kindly, leave the rest to God - Ronald Reagan
+I have opinions of my own - strong opinions - but I don’t always agree with them - George H.W. Bush
+We all do better when we work together. Our differences do matter, but our common humanity matters more - Bill Clinton
+When our memories outweigh our dreams, it is then that we become old - Bill Clinton
+There’s an old saying in Tennessee - I know it’s in Texas, probably in Tennessee - that says, fool me once, shame on - shame on you. Fool me - you can’t get fooled again." George W. Bush
+If you’re walking down the right path and you’re willing to keep walking, eventually you’ll make progress - Barack Obama
+Change will not come if we wait for some other person, or if we wait for some other time. We are the ones we’ve been waiting for. We are the change that we seek - Barack Obama
+Yes We Can! - Barack Obama
+99% of failures come from people who make excuses - George Washington
+If your actions inspire others to dream more, learn more, do more and become more, you are a leader - John Adams
+It is easier to do a job right than to explain why you didn't - Martin Van Buren
+Success is not final; failure is not fatal: it is the courage to continue that counts - Winston Churchill
+Play by the rules, but be ferocious - Phil Knight
+Business opportunities are like buses, there’s always another one coming - Richard Branson
+Every problem is a gift-without problems we would not grow - Anthony Robbins
+You only have to do a few things right in your life so long as you don’t do too many things wrong - Warren Buffett
+Success usually comes to those who are too busy to be looking for it - Henry David Thoreau
+And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom - Anaïs Nin
+There’s no shortage of remarkable ideas, what’s missing is the will to execute them - Seth Godin
+I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite - G.K. Chesterton
+I don’t know the word ‘quit.’ Either I never did, or I have abolished it - Susan Butcher
+Far and away the best prize that life offers is the chance to work hard at work worth doing - Theodore Roosevelt
+If you really look closely, most overnight successes took a long time - Steve Jobs
+Almost everything worthwhile carries with it some sort of risk, whether it’s starting a new business, whether it’s leaving home, whether it’s getting married, or whether it’s flying into space - Chris Hadfield
+Even if you are on the right track, you’ll get run over if you just sit there - Will Rodgers
+The real test is not whether you avoid this failure, because you won’t. It’s whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere - Barack Obama
+Imagination is everything. It is the preview of life’s coming attractions - Albert Einstein
+Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired and success achieved - Helen Keller
+The first one gets the oyster, the second gets the shell - Andrew Carnegie
+The way to get started is to quit talking and begin doing - Walt Disney
+Whether you think you can or whether you think you can’t, you’re right! - Henry Ford
+There are no secrets to success. It is the result of preparation, hard work and learning from failure - Colin Powell
+Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful - Albert Schweitzer
+Many of life’s failures are people who did not realize how close they were to success when they gave up - Thomas Edison
+I feel that luck is preparation meeting opportunity - Oprah Winfrey
+Yesterday’s home runs don’t win today’s games - Babe Ruth
+The best investment is in the tools of one’s own trade - Benjamin Franklin
+If you really look closely, most overnight successes took a long time - Steve Jobs
+Don’t let the noise of others’ opinions drown out your own inner voice - Steve Jobs
+Being the richest man in the cemetery doesn’t matter to me. Going to bed at night saying we’ve done something wonderful… that’s what matters to me - Steve Jobs
+Creativity is just connecting things - Steve Jobs
+Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary - Steve Jobs
+You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future - Steve Jobs
+Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations - Steve Jobs
+Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains - Steve Jobs
+Your time is limited, so don’t waste it living someone else’s life - Steve Jobs
+Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected - Steve Jobs
+Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart - Steve Jobs
+You have to be burning with an idea, or a problem, or a wrong that you want to right. If you’re not passionate enough from the start, you’ll never stick it out - Steve Jobs
+Stay hungry. Stay foolish - Steve Jobs
+If you can dream it, you can do it - Walt Disney
+After you" is good manners - Ancient Chinese Proverb
+A child’s life is like a piece of paper on which every person leaves a mark - Ancient Chinese Proverb
+A gem is not polished without rubbing, nor a man perfected without trials - Ancient Chinese Proverb
+A single conversation with a wise man is worth a month’s study of books - Ancient Chinese Proverb
+Be not disturbed at being misunderstood; be disturbed rather at not being understanding - Ancient Chinese Proverb
+Do not afraid of moving slowly. Be afraid of standing still - Ancient Chinese Proverb
+Give me a fish and I eat for a day. Teach me to fish and I eat for a lifetime - Ancient Chinese Proverb
+He will win who knows when to fight and when not to fight - Ancient Chinese Proverb
+If you must play, decide upon three things at the start: the rules of the game, the stakes, and the quitting time - Ancient Chinese Proverb
+If your mind is strong, all difficult things will become easy. If your mind is weak, all easy things will become difficult - Ancient Chinese Proverb
+love at first sight. It’s generally used for people, but you can also use it for other physical objects - Ancient Chinese Proverb
+Opportunity knocks at the door only once - Ancient Chinese Proverb
+Tell me and I’ll forget. Show me and I may remember. Involves me and I’ll understand - Ancient Chinese Proverb
+The journey of a thousand miles must begin with a single step - Ancient Chinese Proverb
+Time is money, and it is difficult for one to use money to get time - Ancient Chinese Proverb
+When the winds of change blows, some people build walls and others build windmills - Ancient Chinese Proverb
+A bird does not sing because it has an answer. It sings because it has a song - Ancient Chinese Proverb
+A diamond with a flaw is better than a common stone that is perfect - Ancient Chinese Proverb
+A good book is a good friend - Ancient Chinese Proverb
+A straight foot is not afraid of a crooked shoe - Ancient Chinese Proverb
+Better to light a candle than to curse the darkness - Ancient Chinese Proverb
+Do not confine your children to your own learning, for they were born in another time - Ancient Chinese Proverb
+Giving your son a skill is better than giving him one thousand pieces of gold - Ancient Chinese Proverb
+I hear and I forget, I see and I remember. I do and I understand - Ancient Chinese Proverb
+If you plan for one year, plant rice. If you plan for ten years, plant trees, If you  plan for 100 years, educate mankind - Ancient Chinese Proverb
+If your strength is small, don’t carry heavy burdens. If your words are worthless, don’t give advice - Ancient Chinese Proverb
+Love is not about possession, it’s all about appreciation - Ancient Chinese Proverb
+Outside noisy, inside empty - Ancient Chinese Proverb
+Tension is who you think you should be. Relaxation is who you are - Ancient Chinese Proverb
+The person who removes a mountain begins by carrying away small stones - Ancient Chinese Proverb
+To believe in one’s dreams is to spend all of one’s life asleep - Ancient Chinese Proverb
+When you say one thing, the clever person understands three - Ancient Chinese Proverb
+A bit of fragrance clings to the hand that gives flowers - Ancient Chinese Proverb
+A filthy mouth will not utter decent language - Ancient Chinese Proverb
+A journey of a thousand miles begin with a single step - Ancient Chinese Proverb
+A wise man makes his own decisions. An ignorant man follows public opinion - Ancient Chinese Proverb
+Choose a job you love and you will never have to work a day in your life - Ancient Chinese Proverb
+Do not impose others what yourself do not desire - Ancient Chinese Proverb
+He who asks is a fool for five minutes, but he who does not ask remains a fool forever - Ancient Chinese Proverb
+If you are patient in one moment of anger, you will escape a hundred days of sorrow - Ancient Chinese Proverb
+If you stand straight, do not fear a crooked shadow - Ancient Chinese Proverb
+Insanity is doing the same thing in the same way and expecting a different outcome - Ancient Chinese Proverb
+Make happy those who are near, and those who are far will come - Ancient Chinese Proverb
+Parents who are afraid to put their foot down usually have children who step on their toes - Ancient Chinese Proverb
+The best fighter is never angry - Ancient Chinese Proverb
+The person who says something is impossible should not interrupt the person who is doing it - Ancient Chinese Proverb
+To forget one’s ancestor’s is to be a brook without a source, a tree without root - Ancient Chinese Proverb
+With true friends… even water drunk together is sweet enough - Ancient Chinese Proverb
+A book holds a house of gold - Ancient Chinese Proverb
+A fool judges people by the presents they give him - Ancient Chinese Proverb
+A man should choose a friend who is better than himself. There are plenty of acquaintances in the world; but very few real friends - Ancient Chinese Proverb
+All things are difficult before they are easy - Ancient Chinese Proverb
+Coming events cast their shadows before them - Ancient Chinese Proverb
+Don’t fear the enemy that attacks you, but the fake friend that hugs you - Ancient Chinese Proverb
+He who depends on himself will attain the greatest happiness - Ancient Chinese Proverb
+If you are planning for a year, sow rice; if you are planning for a decade, plant trees; if you are planning for a lifetime, educate people - Ancient Chinese Proverb
+If you survived a storm, you won’t be bothered by the rain - Ancient Chinese Proverb
+Learning is a treasure that will follow its owner everywhere - Ancient Chinese Proverb
+One generation plants the trees, and another gets the shade - Ancient Chinese Proverb
+Silence is a source of great strength - Ancient Chinese Proverb
+The best time to plant a tree was 20 years ago. The second best time is now - Ancient Chinese Proverb
+The temptation to quit will be greatest just before you are about to succeed - Ancient Chinese Proverb
+To talk much and arrive nowhere is the same as climbing a tree to catch a fish - Ancient Chinese Proverb
+Your teacher can open the door, but you must enter by yourself - Ancient Chinese Proverb
+A book is like a garden carried in the pocket - Ancient Chinese Proverb
+A friend to everybody is a friend to nobody - Ancient Chinese Proverb
+A man who chases two rabbits catches neither - Ancient Chinese Proverb
+Be not afraid of growing slowly, be afraid only of standing still - Ancient Chinese Proverb
+Distance tests a horse’s strength. Time reveals a person’s character - Ancient Chinese Proverb
+Failure is not falling down but refusing to get up - Ancient Chinese Proverb
+He who returns from a journey is not the same as he who left - Ancient Chinese Proverb
+If you don’t want anyone to know it, don’t do it - Ancient Chinese Proverb
+Life is really simple, but we insist on making it complicated - Ancient Chinese Proverb
+Opportunities don’t just happen, you create them - Ancient Chinese Proverb
+Teachers open the door but you must walk through it yourself - Ancient Chinese Proverb
+The glory is not in never falling, but in rising every time you fall - Ancient Chinese Proverb
+There are many paths to the top of the mountain, but the view is always the same - Ancient Chinese Proverb
+When anger arises, think of the consequences - Ancient Chinese Proverb
+I did not have sexual relations with that woman - Bill Clinton
+The only easy day was yesterday - US Navy SEALs
+The true soldier fights not because he hates what is in front of him, but because he loves what is behind him - G.K. Chesterton
+We sleep peaceably in our beds at night only because rough men stand ready to do violence on our behalf - George Orwell
+Heroism doesn’t always happen in a burst of glory. Sometimes small triumphs and large hearts change the course of history - Mary Roach
+You can have peace. Or you can have freedom. Don’t ever count on having both at once - Robert A. Heinlein
+Whoever said the pen is mightier than the sword obviously never encountered automatic weapons - Douglas MacArthur
+It is foolish and wrong to mourn the men who died. Rather, we should thank God that such men lived - George S. Patton Jr.
+There is no honor in sending men to die for something you won’t even fight for yourself - Mark Owen
+I’m fed up to the ears with old men dreaming up wars for young men to die in - George S. McGovern
+Loyalty to country ALWAYS. Loyalty to government, when it deserves it - Mark Twain
+The military don’t start wars. Politicians start wars - William C. Westmoreland
+Only the dead have seen the end of war - Plato
+Listen up, there’s no war that will end all wars - Haruki Murakami
+Do not swallow bait offered by the enemy. Do not interfere with an army that is returning home - Sun Tzu
+It is fatal to enter a war without the will to win it - Douglas MacArthur
+When the rich wage war it’s the poor who die - Jean-Paul Sartre
+Sometimes you have to pick the gun up to put the gun down - Malcolm X
+If I charge, follow me. If I retreat, kill me. If I die, revenge me - U.S. Marine Corps
+War is too important to be left to the generals - Georges Clémenceau
+When something is important enough, you do it even if the odds are not in your favor - Elon Musk
+Some people don't like change, but you need to embrace change if the alternative is disaster - Elon Musk
+Failure is an option here. If things are not failing, you are not innovating enough - Elon Musk
+The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design - Elon Musk
+Persistence is very important. You should not give up unless you are forced to give up - Elon Musk
+I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better - Elon Musk
+There's a tremendous bias against taking risks. Everyone is trying to optimize their ass-covering - Elon Musk
+It's OK to have your eggs in one basket as long as you control what happens to that basket - Elon Musk
+I don't think it's a good idea to plan to sell a company - Elon Musk
+People work better when they know what the goal is and why. It is important that people look forward to coming to work in the morning and enjoy working - Elon Musk
+If you're cofounder or CEO, you have to do all kinds of tasks you might not want to do... If you don't do your chores, the company won't succeed... No task is too menial - Elon Musk
+I say something, and then it usually happens. Maybe not on schedule, but it usually happens - Elon Musk
+I don't spend my time pontificating about high concept things; I spend my time solving engineering and manufacturing problems - Elon Musk
+My biggest mistake is probably weighing too much on someone's talent and not someone's personality. I think it matters whether someone has a good heart - Elon Musk
+I don't create companies for the sake of creating companies, but to get things done - Elon Musk
+Starting and growing a business is as much about the innovation, drive, and determination of the people behind it as the product they sell - Elon Musk
+The first step is to establish that something is possible; then probability will occur - Elon Musk
+I've actually not read any books on time management - Elon Musk
+I'm interested in things that change the world or that affect the future and wondrous, new technology where you see it, and you're like, 'Wow, how did that even happen? How is that possible?' - Elon Musk
+Really pay attention to negative feedback and solicit it, particularly from friends. ... Hardly anyone does that, and it's incredibly helpful - Elon Musk
+If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not - Elon Musk
+What makes innovative thinking happen?... I think it's really a mindset. You have to decide - Elon Musk
+People should pursue what they're passionate about. That will make them happier than pretty much anything else - Elon Musk
+Being an entrepreneur is like eating glass and staring into the abyss of death - Elon Musk
+I wouldn't say I have a lack of fear. In fact, I'd like my fear emotion to be less because it's very distracting and fries my nervous system - Elon Musk
+If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion - Elon Musk
+I think most of the important stuff on the Internet has been built. There will be continued innovation, for sure, but the great problems of the Internet have essentially been solved - Elon Musk
+I think we have a duty to maintain the light of consciousness to make sure it continues into the future - Elon Musk
+When Henry Ford made cheap, reliable cars, people said, 'Nah, what's wrong with a horse?' That was a huge bet he made, and it worked - Elon Musk
+When somebody has a breakthrough innovation, it is rarely one little thing. Very rarely, is it one little thing. It's usually a whole bunch of things that collectively amount to a huge innovation - Elon Musk
+You shouldn't do things differently just because they're different. They need to be... better - Elon Musk
+You have to say, 'Well, why did it succeed where others did not?' - Elon Musk
+It's very important to like the people you work with, otherwise life [and] your job is gonna be quite miserable - Elon Musk
+We have a strict 'no assholes policy' at SpaceX - Elon Musk
+Disruptive technology where you really have a big technology discontinuity... tends to come from new companies - Elon Musk
+As much as possible, avoid hiring MBAs. MBA programs don't teach people how to create companies - Elon Musk
+Don't delude yourself into thinking something's working when it's not, or you're gonna get fixated on a bad solution - Elon Musk
+I always have optimism, but I'm realistic. It was not with the expectation of great success that I started Tesla or SpaceX... It's just that I thought they were important enough to do anyway."
+The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy - Sun Tzu
+All warfare is based on deception - Sun Tzu
+The supreme art of war is to subdue the enemy without fighting - Sun Tzu
+Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting - Sun Tzu
+Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat - Sun Tzu
+Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win - Sun Tzu
+Opportunities multiply as they are seized - Sun Tzu
+The opportunity to secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself - Sun Tzu
+There is no instance of a nation benefitting from prolonged warfare - Sun Tzu
+Know thy self, know thy enemy. A thousand battles, a thousand victories - Sun Tzu
+That's one small step for a man, one giant leap for mankind - Neil Armstrong
+Help me, Obi-Wan Kenobi. You’re my only hope - Leia Organa
+I find your lack of faith disturbing - Darth Vader
+The Force will be with you. Always - Obi-Wan Kenobi
+Why, you stuck-up, half-witted, scruffy-looking nerf herder!" - Leia Organa
+Never tell me the odds!" - Han Solo
+No. I am your father - Darth Vader
+I’ll never turn to the dark side. You’ve failed, your highness. I am a Jedi, like my father before me - Luke Skywalker
+Just for once, let me look on you with my own eyes - Anakin Skywalker
+There’s always a bigger fish - Qui-Gon Jinn
+You can’t stop the change, any more than you can stop the suns from setting - Shmi Skywalker
+Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you - Yoda
+Well, if droids could think, there’d be none of us here, would there?" - Obi-Wan Kenobi
+I’m just a simple man trying to make my way in the universe - Jango Fett
+What if I told you that the Republic was now under the control of a Dark Lord of the Sith?" - Count Dooku
+The dark side of the Force is a pathway to many abilities some consider to be unnatural - Chancellor Palpatine
+Power! Unlimited power!" - Darth Sidious
+So this is how liberty dies. With thunderous applause - Padmé Amidala
+You were my brother, Anakin. I loved you - Obi-Wan Kenobi
+I am no Jedi - Ahsoka Tano
+The garbage’ll do!" - Rey
+Oh, my dear friend. How I’ve missed you - C-3PO
+I’m one with the Force. The Force is with me - Chirrut Îmwe
+Hope - Leia Organa
+My Lord, is that legal?" - Nute Gunray
+I will make it legal - Darth Sidious
+You were right about one thing, Master. The negotiations were short - Obi-Wan Kenobi
+Are you an angel?" - Anakin Skywalker
+What do you think, you’re some kind of Jedi, waving your hand around like that?" - Watto
+And you, young Skywalker. We will watch your career with great interest - Sheev Palpatine
+Always two, there are. No more, no less. A master and an apprentice - Yoda
+Be careful not to choke on your aspirations, Director - Darth Vader
+I am altering the deal. pray I don't alter it any further - Darth Vader
+You're breaking my heart - Padmé Amidala
+It's over Anakin! I have the high ground - Obi-Wan Kenobi
+I'm not the jedi I should be - Anakin Skywalker
+Good, twice the pride, double the fall - Count Dooku
+I am the Senate - Supreme Chancellor Palpatine
+The Senate will decide your fate - Mace Windu
+I have had it with these motherfucking snake on this motherfucking plane - Neville Flynn
+It’s a trap - Admiral Ackbar
+I’ve got a bad feeling about this - Basically Everyone
+Your focus determines your reality - Qui-Gon Jinn
+Your weapon… you will not need it - Yoda
+May the Force be with you - Obi-Wan Kenobi
+Judge me by my size, do you - Yoda
+I don’t like sand. It’s coarse and rough and irritating and it gets everywhere - Anakin Skywalker
+You were the chosen one! It was said that you would destroy the Sith, not join them - Obi-Wan Kenobi

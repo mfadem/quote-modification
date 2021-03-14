@@ -753,7 +753,6 @@ fruit
 fuel
 fun
 function
-fund
 funeral
 funny
 furniture
@@ -788,6 +787,7 @@ glove
 goal
 goat
 god
+God
 gold
 golf
 good
@@ -864,6 +864,7 @@ homework
 honey
 hook
 hope
+Hope
 horn
 horror
 horse
@@ -974,7 +975,6 @@ jump
 junior
 jury
 justice
-keep
 kettle
 key
 kick
@@ -1015,7 +1015,6 @@ leaf
 league
 learning
 leather
-leave
 lecture
 lees
 leg
@@ -1049,6 +1048,7 @@ listen
 literature
 literatures
 lives
+live
 living
 load
 loan
@@ -1057,6 +1057,7 @@ location
 lock
 log
 lord
+Lord
 loss
 losses
 lot
@@ -1095,6 +1096,7 @@ mary
 mass
 masses
 master
+Master
 match
 matches
 mate
@@ -1102,7 +1104,6 @@ material
 math
 matter
 maximum
-may
 maybe
 meal
 meaning
@@ -1146,6 +1147,7 @@ misses
 mission
 mist
 mistake
+mistakes
 mix
 mixture
 mobile
@@ -1298,7 +1300,6 @@ pen
 penalty
 pencil
 pension
-people
 percentage
 perception
 performance
@@ -1372,6 +1373,7 @@ potential
 pound
 powder
 power
+Power
 practice
 practices
 preference
@@ -1388,6 +1390,7 @@ pride
 priest
 primary
 prince
+princess
 principle
 print
 prior
@@ -1572,6 +1575,7 @@ rugbies
 rugby
 ruin
 rule
+rules
 run
 rush
 sad
@@ -2000,6 +2004,7 @@ wealth
 wealths
 wear
 weather
+weapon
 web
 wedding
 week
@@ -2013,7 +2018,6 @@ west
 western
 wheel
 whereas
-while
 whip
 whistle
 white
@@ -2070,3 +2074,46 @@ deception
 disobey
 obey
 mankind
+force
+Force
+me
+alive
+society
+happiness
+loneliness
+imperfection
+imperfections
+flaw
+defeat
+defeats
+unknown
+strategic
+chaos
+cosmos
+moral
+swear
+miles
+fuck
+Jedi
+jedi
+Sith
+sith
+droid
+blaster
+lightsaber
+liberty
+girlfriend
+angel
+apprentice
+Apprentice
+aspirations
+Senate
+trap
+warrior
+wisdom
+inexperience
+joy
+door
+wind
+winds
+walls
