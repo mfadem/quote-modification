@@ -32,7 +32,6 @@ aes
 affair
 affect
 afternoon
-age
 agencies
 agency
 agent
@@ -61,9 +60,6 @@ annual
 answer
 ant
 anxiety
-anybody
-anything
-anywhere
 apartment
 apparatus
 appeal
@@ -85,6 +81,7 @@ arrival
 art
 article
 artist
+artists
 aside
 ask
 aspect
@@ -171,7 +168,6 @@ bird
 birth
 birthday
 bishop
-bit
 bite
 bitter
 black
@@ -380,6 +376,7 @@ competition
 complaint
 complex
 computer
+computers
 concentrate
 concentration
 concentrations
@@ -570,6 +567,7 @@ draw
 drawer
 drawing
 dream
+dreams
 dress
 dresses
 drink
@@ -702,6 +700,8 @@ fiction
 field
 fig
 fight
+fights
+fighting
 figure
 file
 fill
@@ -732,6 +732,7 @@ food
 foods
 foot
 football
+fool
 force
 forest
 forever
@@ -747,6 +748,7 @@ framework
 frank
 freedom
 friend
+friends
 friendship
 front
 fruit
@@ -787,7 +789,6 @@ glove
 goal
 goat
 god
-God
 gold
 golf
 good
@@ -805,6 +806,7 @@ grasses
 great
 green
 grip
+grin
 grocery
 ground
 group
@@ -992,7 +994,6 @@ knowledge
 knowledges
 lab
 labour
-lack
 ladder
 ladies
 lady
@@ -1096,7 +1097,6 @@ mary
 mass
 masses
 master
-Master
 match
 matches
 mate
@@ -1192,7 +1192,6 @@ nature
 neat
 necessary
 neck
-need
 needle
 negative
 negotiation
@@ -1209,7 +1208,6 @@ noise
 normal
 north
 northern
-nos
 nose
 note
 nothing
@@ -1275,6 +1273,7 @@ park
 parking
 parliament
 part
+parts
 particular
 parties
 partner
@@ -1373,7 +1372,6 @@ potential
 pound
 powder
 power
-Power
 practice
 practices
 preference
@@ -1413,7 +1411,8 @@ professor
 profile
 profit
 program
-programme
+programmer
+programming
 progress
 progresses
 project
@@ -1453,6 +1452,8 @@ quiet
 quit
 quote
 race
+races
+racer
 radio
 rail
 railway
@@ -1555,6 +1556,7 @@ rise
 risk
 river
 road
+roads
 rock
 rod
 role
@@ -1611,8 +1613,10 @@ search
 searches
 season
 seat
+seato
 second
 secret
+secrets
 secretaries
 secretary
 section
@@ -1703,6 +1707,7 @@ smile
 smith
 smoke
 snake
+snakes
 sneeze
 snow
 soap
@@ -1898,6 +1903,7 @@ tonies
 tonight
 tony
 tool
+tools
 tooth
 top
 topic
@@ -2075,7 +2081,6 @@ disobey
 obey
 mankind
 force
-Force
 me
 alive
 society
@@ -2093,10 +2098,9 @@ cosmos
 moral
 swear
 miles
+mile
 fuck
-Jedi
 jedi
-Sith
 sith
 droid
 blaster
@@ -2105,7 +2109,6 @@ liberty
 girlfriend
 angel
 apprentice
-Apprentice
 aspirations
 Senate
 trap
@@ -2117,3 +2120,33 @@ door
 wind
 winds
 walls
+evil
+mad
+humanity
+harvest
+atheist
+liar
+perfect
+purity
+goodness
+principles
+companions
+astronomy
+telescope
+telescopes
+magic
+coin
+coins
+enemy
+buster
+america
+mexico
+canada
+inch
+tuna
+rights
+patriotism
+patriot
+tires
+tire
+beliefs
