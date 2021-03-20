@@ -4,6 +4,10 @@ import random
 import sys
 import tweepy
 import os
+import re
+
+# DEBUG = True
+DEBUG = False
 
 class Bot:
     def __init__(self, json_file):
@@ -98,7 +102,7 @@ class Bot:
             Grab a random quote from the quote file, do some clean up and verification
         """
         with open("input/used_quotes.txt", 'r') as used_quotes:
-            burned_quotes = used_quotes.readlines()
+            burned_quotes = used_quotes.read().splitlines()
             burned_quotes_len = len(burned_quotes)
 
         with open('input/quotes.txt', 'r') as quote_file:
@@ -126,11 +130,18 @@ class Bot:
             with open('input/nouns.txt', 'r') as noun_file:
                 nouns = noun_file.read().splitlines()
                 for noun in nouns:
-                     # TODO: Need to handle capitalization and punctuation
-                    if noun in quote.split() and noun not in noun_list:
+                    noun_caps = noun.title()
+                    if noun in re.findall(r"[\w']+", quote) and noun not in noun_list:
                         noun_list.append(noun)
+                    elif noun_caps in re.findall(r"[\w']+", quote) and noun_caps not in noun_list:
+                        noun_list.append(noun_caps)
 
-        # print("Author: {}\nQuote: {}\nNouns: {}".format(author, quote, noun_list))
+            if noun_list == 0:
+                with open("input/bad_quotes.txt", "a") as bad_quotes:
+                    bad_quotes.write(quote + "\n")
+
+        if DEBUG:
+            print("Author: {}\nQuote: {}\nNouns: {}".format(author, quote, noun_list))
         return [author, quote, noun_list]
 
     def penisReplacement(self, quote):
@@ -141,12 +152,30 @@ class Bot:
             used_quotes.write(quote[1] + "\n")
 
         random_noun = random.choice(quote[2])
-        # print("Random Noun: {}".format(random_noun))
+        if DEBUG:
+            print("Random Noun: {}".format(random_noun))
 
-        improved_quote = quote[1].replace(random_noun, 'penis')
+        if random_noun[0].isupper():
+            improved_quote = quote[1].replace(random_noun, 'Penis')
+        else:
+            improved_quote = quote[1].replace(random_noun, 'penis')
+
+        # Build some custom tags or tag the author
+        additional_tags = ''
+        starwars_characters = ["Skywalker", "Kenobi", "Yoda", "Windu", "Palpatine", "Dooku", "Vader", "Amidala", "Organa", "Solo", "Jinn", "Fett", "C3PO", "R2D2", "Îmwe", "Gunray", "Watto", "Ackbar"]
+        fast_and_furious_characters = ["Toretto", "Lue", "Pearce", "Tran", "Jesse", "O'Conner"]
+
+        if quote[0] == "Elon Musk":
+            quote[0] = "@elonmusk"
+        elif quote[0] == "Bill Gates":
+            quote[0] = "@BillGates"
+        elif quote[0].split()[-1] in starwars_characters:
+            additional_tags += " #starwars"
+        elif quote[0].split()[-1] in fast_and_furious_characters:
+            additional_tags += " #fastandfurious"
 
         # assemble tweet
-        return ["\"{}.\" - {}\n#penis #quote #motivational".format(improved_quote, quote[0]), random_noun]
+        return ["\"{}\" - {}\n#penis #quote #motivational{}".format(improved_quote, quote[0], additional_tags), random_noun]
 
 def main():
     try:
@@ -155,19 +184,27 @@ def main():
         if not os.path.isfile("input/used_quotes.txt"):
             os.mknod("input/used_quotes.txt")
 
+        if not os.path.isfile("input/bad_quotes.txt"):
+            os.mknod("input/bad_quotes.txt")
+
         quote = bot.pullQuote()
 
         if(quote == "ERROR - NO MORE QUOTES! CONTACT MY HUMAN!"):
-            # print(quote)
-            bot.updateBotStatus(quote)
+            if DEBUG:
+                print(quote)
+            else:
+                bot.updateBotStatus(quote)
         else:
             improved_quote = bot.penisReplacement(quote)
-            # print("Penis Quote: {}".format(improved_quote))
-            bot.updateBotStatus(improved_quote[0])
+            if DEBUG:
+                print("Penis Quote: {}".format(improved_quote))
+            else:
+                bot.updateBotStatus(improved_quote[0])
 
         # Reply to most recent tweet with additional info
-        recent_tweet = bot.api_client.user_timeline(id = bot.api_client.me().id, count = 1)[0]
-        bot.api_client.update_status('@PenisQuoteBot Original Quote: {}\nPossible Replacements: {}\nSelected Replacement: {}'.format(quote[1], quote[2], improved_quote[1]), recent_tweet.id)
+        if not DEBUG:
+            recent_tweet = bot.api_client.user_timeline(id = bot.api_client.me().id, count = 1)[0]
+            bot.api_client.update_status('@PenisQuoteBot Original Quote: {}\nPossible Replacements: {}\nSelected Replacement: {}'.format(quote[1], quote[2], improved_quote[1]), recent_tweet.id)
     except Exception as err:
         print("Hey bud, you got an error. ¯\_(ツ)_/¯ \n {0}\n\t{1}".format(err.with_traceback, err))
         sys.exit(-1)
